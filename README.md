@@ -23,7 +23,14 @@ source env_xgboost/bin/activate
 ```
 pip install -r requirements.txt
 ```
- - Upload the data to a bucket: 
+ - Upload the data to a bucket (make sure to change the name of the project_id to your own project's id in the section "Usage". See below. 
 ```
 python3 create_bucket_upload_file.py
+```
+```
+# Usage
+PROJECT_ID = 'future-abacus-414917'
+BUCKET_NAME = 'mds_bucket_for_data_mlops'
+LOCAL_FILE_PATH = 'spotify_data.csv'  # Path to your local file
+DESTINATION_PATH = 'data'  # Destination path in the bucket without timestamp
 ```
