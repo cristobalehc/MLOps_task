@@ -3,7 +3,11 @@ This is a repository with a MLOps pipeline for the MLOps course MDS2022-1
 
 Just make sure to follow these steps: 
 
- - Clone repository
+ - Clone repository:
+```
+git clone  PATH TO REPO
+```
+ - Upload the data to a bucket: 
 ```
 git clone  https://github.com/dcampanini/mlops-xgboost.git
 ```
