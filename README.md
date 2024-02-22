@@ -5,15 +5,19 @@ This is a repository with a MLOps pipeline for the MLOps course MDS2022-1. It wi
 **Important note:** This repository assumes that you are logged in your GCP account, and have a running workbench instance with notebooks. 
 
 
-To try it out, make sure to follow these steps: 
+To try it out, make sure to follow these steps using a new terminal: 
 
+ - Exit conda environment
+```
+conda deactivate
+```
  - Clone repository:
 ```
 git clone https://github.com/cristobalehc/MLOps_task.git
 ```
- - Exit conda environment
+ - Go to repository folder: 
 ```
-conda deactivate
+cd MLOps_task
 ```
  - Create a Python virtual environment:
 ```
@@ -27,7 +31,7 @@ source spotifylogreg_venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
- - Modify the 'create_bucket_upload_file.py' file: There is a script to upload the data to a GCP bucket: make sure to change the name of the **PPROJECT_ID** in line 30 to your own project's id in the section "Usage". See below. So you should modify the 'create_bucket_upload_file.py' like this:
+ - Modify the 'create_bucket_upload_file.py' file: This script will create a bucket named mds_bucket_for_data_mlops if it doesnt exist already, and will upload the data within a folder with a timestamp. If the bucket already exists, it will just upload the data to a folder with a timestamp. Make sure to change the name of the **PPROJECT_ID** in line 30 to your own project's id in the section "Usage". See below. So you should modify the 'create_bucket_upload_file.py' like this:
 ```
 # Usage
 PROJECT_ID = 'YOUR PROJECT NAME GOES HERE'
