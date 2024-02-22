@@ -1,0 +1,954 @@
+"","track_name","artist.s._name","released_year","released_month","in_spotify_playlists","listas_spotify_log","bpm","porcentaje_bailable","porcentaje_energia","porcentaje_acustica","porcentaje_instrumental","porcentaje_voz","porcentaje_envivo","modo","valencia","clave_sol"
+"1","Seven (feat. Latto) (Explicit Ver.)","Latto, Jung Kook",2023,7,553,6.31535800152233,125,80,83,31,0,4,8,"Major",89,0
+"2","LALA","Myke Towers",2023,3,1474,7.29573507274928,92,71,74,7,0,4,10,"Major",61,0
+"3","vampire","Olivia Rodrigo",2023,6,1397,7.24208235925696,138,51,53,17,0,6,31,"Major",32,0
+"4","Cruel Summer","Taylor Swift",2019,8,7858,8.96928740011841,170,55,72,11,0,15,11,"Major",58,0
+"5","WHERE SHE GOES","Bad Bunny",2023,5,3133,8.04974629095219,144,65,80,14,63,6,11,"Minor",23,0
+"6","Sprinter","Dave, Central Cee",2023,6,2186,7.68982866873648,141,92,58,19,0,24,8,"Major",66,0
+"7","Ella Baila Sola","Eslabon Armado, Peso Pluma",2023,3,3090,8.03592636989179,148,67,76,48,0,3,8,"Minor",83,0
+"8","Columbia","Quevedo",2023,7,714,6.57088296233958,100,67,71,37,0,4,11,"Major",26,0
+"9","fukumean","Gunna",2023,5,1096,6.99942246750796,130,85,62,12,0,9,28,"Minor",22,0
+"10","La Bebe - Remix","Peso Pluma, Yng Lvcas",2023,3,2953,7.99057688174392,170,81,48,21,0,33,8,"Minor",56,0
+"11","un x100to","Bad Bunny, Grupo Frontera",2023,4,2876,7.96415571884094,83,57,72,23,0,5,27,"Minor",56,0
+"12","Super Shy","NewJeans",2023,7,422,6.04500531403601,150,78,82,18,0,7,15,"Minor",52,0
+"13","Flowers","Miley Cyrus",2023,1,12211,9.41009246383302,118,71,68,6,0,7,3,"Major",65,0
+"14","Daylight","David Kushner",2023,4,3528,8.16848641712668,130,51,43,83,0,3,9,"Minor",32,0
+"15","As It Was","Harry Styles",2022,3,23575,10.0679421075017,174,52,73,34,0,6,31,"Minor",66,0
+"16","Kill Bill","SZA",2022,12,8109,9.00072983494456,89,64,73,5,17,4,16,"Major",43,0
+"17","Cupid - Twin Ver.","Fifty Fifty",2023,2,2942,7.98684490116138,120,78,59,43,0,3,34,"Minor",76,0
+"18","What Was I Made For? [From The Motion Picture ""Barbie""]","Billie Eilish",2023,7,873,6.7719355558396,78,44,9,96,0,3,10,"Major",14,0
+"19","Classy 101","Feid, Young Miko",2023,3,2610,7.86710550031674,100,86,66,14,0,16,12,"Major",67,0
+"20","Like Crazy","Jimin",2023,3,596,6.39024066706535,120,63,73,0,0,4,36,"Major",36,1
+"21","LADY GAGA","Gabito Ballesteros, Junior H, Peso Pluma",2023,6,332,5.80513496891649,140,65,74,22,0,4,42,"Minor",87,0
+"22","I Can See You (Taylorï¿½ï¿½ï¿½s Version) (From The ","Taylor Swift",2023,7,516,6.24610676548156,123,69,76,6,0,3,6,"Major",82,0
+"23","I Wanna Be Yours","Arctic Monkeys",2013,1,12859,9.46179923427044,135,48,42,12,2,3,11,"Minor",44,0
+"24","Peso Pluma: Bzrp Music Sessions, Vol. 55","Bizarrap, Peso Pluma",2023,5,1313,7.1800698743028,133,85,67,26,0,5,12,"Minor",81,0
+"25","Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)","The Weeknd, Madonna, Playboi Carti",2023,6,1945,7.57301725605255,99,85,68,7,0,20,36,"Major",83,0
+"26","SABOR FRESA","Fuerza Regida",2023,6,250,5.52146091786225,130,79,86,9,0,9,9,"Minor",96,1
+"27","Calm Down (with Selena Gomez)","Rï¿½ï¿½ma, Selena G",2022,3,7112,8.86953877719374,107,80,80,43,0,4,14,"Major",82,0
+"28","MOJABI GHOST","Tainy, Bad Bunny",2023,6,859,6.75576892198425,122,81,71,14,0,4,56,"Minor",74,0
+"29","Last Night","Morgan Wallen",2023,1,2420,7.79152281915073,204,52,68,46,0,4,15,"Major",52,0
+"30","Dance The Night (From Barbie The Album)","Dua Lipa",2023,5,2988,8.00235954625271,110,67,85,2,0,5,33,"Minor",78,0
+"31","Rush","Troye Sivan",2023,7,864,6.76157276880406,126,74,84,0,0,6,11,"Minor",35,0
+"32","TULUM","Peso Pluma, Grupo Frontera",2023,6,266,5.5834963087817,168,56,87,39,0,5,11,"Major",63,0
+"33","Creepin'","The Weeknd, 21 Savage, Metro Boomin",2022,12,6036,8.70549681988774,98,71,61,36,0,5,8,"Minor",17,0
+"34","Anti-Hero","Taylor Swift",2022,10,9082,9.1140497116579,97,64,63,12,0,5,19,"Major",51,0
+"35","TQG","Karol G, Shakira",2023,2,4284,8.36264243156764,180,72,63,67,0,28,9,"Minor",61,0
+"36","Los del Espacio","Big One, Duki, Lit Killah, Maria Becerra, FMK, Rusherking, Emilia, Tiago pzk",2023,6,1150,7.0475172213573,120,81,68,11,0,4,11,"Major",63,0
+"37","Frï¿½ï¿½gil (feat. Grupo Front","Yahritza Y Su Esencia, Grupo Frontera",2023,4,672,6.51025834052315,150,61,73,37,0,3,11,"Major",39,0
+"38","Blank Space","Taylor Swift",2014,1,11434,9.34434665182392,96,75,68,9,0,6,13,"Major",57,0
+"39","Style","Taylor Swift",2014,1,7830,8.96571778898485,95,60,79,0,0,4,12,"Major",48,0
+"40","TQM","Fuerza Regida",2023,5,584,6.36990098282823,125,79,85,27,0,6,11,"Minor",96,0
+"41","El Azul","Junior H, Peso Pluma",2023,2,692,6.53958595561767,144,56,65,23,0,6,10,"Minor",84,0
+"42","Sunflower - Spider-Man: Into the Spider-Verse","Post Malone, Swae Lee",2018,10,24094,10.0897181258268,90,76,50,54,0,5,7,"Major",91,0
+"43","I'm Good (Blue)","Bebe Rexha, David Guetta",2022,8,12482,9.43204288549399,128,56,97,4,0,4,35,"Minor",38,1
+"44","See You Again","Tyler, The Creator, Kali Uchis",2017,7,13387,9.5020393657859,79,56,56,37,0,10,11,"Major",58,0
+"45","Barbie World (with Aqua) [From Barbie The Album]","Nicki Minaj, Aqua, Ice Spice",2023,6,1117,7.0184017990692,144,77,58,52,0,25,23,"Major",75,0
+"46","Angels Like You","Miley Cyrus",2020,11,3372,8.12326131912175,122,67,64,10,0,3,10,"Major",49,0
+"47","I Ain't Worried","OneRepublic",2022,5,8431,9.03967066792268,140,71,81,11,0,5,6,"Major",82,0
+"48","Die For You","The Weeknd",2016,11,2483,7.81722278550817,134,59,52,9,0,7,15,"Minor",51,0
+"49","Starboy","The Weeknd, Daft Punk",2016,9,29536,10.2933651373026,186,68,59,16,0,28,13,"Major",49,1
+"50","Die For You - Remix","Ariana Grande, The Weeknd",2023,2,3408,8.13388088794921,67,53,53,23,0,7,44,"Minor",50,0
+"51","El Cielo","Feid, Myke Towers, Sky Rompiendo",2023,6,1298,7.16857989726403,106,72,64,7,0,5,10,"Minor",17,0
+"52","Baby Don't Hurt Me","David Guetta, Anne-Marie, Coi Leray",2023,4,4277,8.36100710822691,128,60,91,0,0,3,12,"Major",23,1
+"53","AMARGURA","Karol G",2023,2,1133,7.03262426102801,107,92,70,18,0,7,15,"Minor",55,0
+"54","(It Goes Like) Nanana - Edit","Peggy Gou",2023,6,2259,7.722677516468,130,67,88,12,19,4,8,"Minor",96,1
+"55","Another Love","Tom Odell",2012,10,18371,9.81852861330894,123,45,54,70,0,4,9,"Minor",13,0
+"56","Blinding Lights","The Weeknd",2019,11,43899,10.6896468197605,171,50,80,0,0,7,9,"Major",38,0
+"57","Moonlight","Kali Uchis",2023,2,2649,7.88193748927207,137,64,72,51,0,5,17,"Minor",88,1
+"58","La Bachata","Manuel Turizo",2022,5,6804,8.82526595351575,125,84,68,58,0,4,22,"Minor",85,1
+"59","S91","Karol G",2023,7,525,6.26339826259162,128,86,72,59,0,19,9,"Minor",42,0
+"60","cardigan","Taylor Swift",2020,7,7923,8.97752520096524,130,61,58,55,0,4,27,"Minor",53,0
+"61","Tï¿½ï¿","dennis, MC Kevin o Chris",2023,5,731,6.59441345974978,130,86,96,50,1,5,9,"Major",59,0
+"62","Boy's a liar Pt. 2","PinkPantheress, Ice Spice",2023,2,5184,8.55333223803211,133,70,81,25,0,5,25,"Major",86,0
+"63","Left and Right (Feat. Jung Kook of BTS)","Charlie Puth, BTS, Jung Kook",2022,6,3107,8.04141290939305,101,88,59,62,0,3,9,"Major",72,0
+"64","BESO","Rauw Alejandro, ROSALï¿½",2023,3,4053,8.30721262662831,95,77,64,74,0,14,17,"Minor",53,0
+"65","Hey Mor","Ozuna, Feid",2022,10,4637,8.44182288439146,98,90,59,0,0,29,10,"Minor",40,0
+"66","Yellow","Chris Molitor",1999,1,31358,10.3532246969204,173,43,66,0,0,3,23,"Major",28,0
+"67","Karma","Taylor Swift",2022,10,3818,8.24748200428569,90,64,62,7,0,7,48,"Major",10,0
+"68","People","Libianca",2022,12,3506,8.16223106548118,198,59,42,55,0,7,10,"Minor",71,0
+"69","Overdrive","Post Malone",2023,7,410,6.01615715969835,140,56,73,0,0,4,35,"Major",48,0
+"70","Enchanted (Taylor's Version)","Taylor Swift",2023,7,148,4.99721227376411,82,51,53,1,0,3,15,"Major",22,0
+"71","BABY HELLO","Rauw Alejandro, Bizarrap",2023,6,1004,6.91174730025167,130,77,89,17,0,5,43,"Minor",84,0
+"72","Heat Waves","Glass Animals",2020,6,22543,10.0231798754541,81,76,53,44,0,9,9,"Major",53,0
+"73","golden hour","JVKE",2022,7,4511,8.4142741374084,94,51,59,65,18,3,25,"Minor",14,0
+"74","Sweater Weather","The Neighbourhood",2012,5,16413,9.70582898273194,124,61,81,5,2,3,10,"Major",41,0
+"75","Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo",2022,7,8506,9.04852707581358,128,62,78,1,3,4,23,"Major",55,0
+"76","Viva La Vida","Coldplay",2008,1,33898,10.431111294578,138,49,62,9,0,3,11,"Minor",42,0
+"77","Here With Me","d4vd",2022,7,3246,8.08517874807454,132,58,48,50,0,3,12,"Major",27,0
+"78","Unholy (feat. Kim Petras)","Sam Smith, Kim Petras",2022,9,8576,9.05672288331058,131,71,47,1,0,9,27,"Major",24,0
+"79","Yandel 150","Yandel, Feid",2022,12,3618,8.19367666595524,168,78,73,5,0,7,10,"Minor",58,0
+"80","CORAZï¿½ï¿½N VA","Maria Becerra",2023,6,370,5.91350300563827,98,68,79,33,0,6,30,"Major",40,0
+"81","Riptide","Vance Joy",1975,1,31123,10.3457023746743,102,48,73,43,0,4,15,"Major",50,0
+"82","Until I Found You (with Em Beihold) - Em Beihold Version","Em Beihold, Stephen Sanchez",2022,4,2790,7.93379687481541,101,34,57,78,0,3,20,"Major",32,0
+"83","Novidade na ï¿½ï¿","Mc Livinho, DJ Matt D",2023,6,267,5.58724865840025,130,63,34,76,0,9,35,"Major",36,0
+"84","Back To December (Taylor's Version)","Taylor Swift",2023,7,139,4.93447393313069,142,50,64,1,0,3,12,"Major",20,0
+"85","STAY (with Justin Bieber)","Justin Bieber, The Kid Laroi",2021,7,17050,9.74390548271166,170,59,76,4,0,5,10,"Major",48,0
+"86","El Merengue","Marshmello, Manuel Turizo",2023,3,2114,7.65633716643018,124,78,68,3,1,4,11,"Minor",70,0
+"87","Someone You Loved","Lewis Capaldi",2018,11,17836,9.78897416574737,110,50,41,75,0,3,11,"Major",45,0
+"88","Me Porto Bonito","Chencho Corleone, Bad Bunny",2022,5,8870,9.09043007530363,92,91,71,9,0,8,9,"Minor",43,0
+"89","Makeba","Jain",2015,6,6060,8.70946507906336,116,82,66,39,51,7,25,"Major",40,0
+"90","MONTAGEM - FR PUNK","Ayparia, unxbected",2012,6,641,6.46302945692067,129,63,82,70,8,7,9,"Major",84,0
+"91","Fast Car","Luke Combs",2023,3,1446,7.27655640271871,98,71,60,19,0,3,12,"Major",67,0
+"92","What It Is (Solo Version)","Doechii",2023,3,804,6.68959926917897,172,74,76,6,0,9,10,"Minor",76,0
+"93","Coco Chanel","Bad Bunny, Eladio Carrion",2023,3,1962,7.58171964012531,150,68,76,4,0,4,10,"Major",14,0
+"94","Donï¿½ï¿½ï¿½t Bl","Taylor Swift",2017,11,4875,8.49187538343195,136,62,53,11,0,4,6,"Minor",19,0
+"95","Still With You","Jung Kook",2020,6,31,3.43398720448515,88,53,47,9,0,4,83,"Minor",34,0
+"96","All My Life (feat. J. Cole)","J. Cole, Lil Durk",2023,5,2175,7.68478394352278,143,83,44,15,0,33,10,"Major",69,0
+"97","Say Yes To Heaven","Lana Del Rey",2023,3,2000,7.60090245954208,100,49,35,71,9,3,11,"Minor",17,0
+"98","Snooze","SZA",2022,12,2839,7.95120715647297,143,56,55,14,0,13,11,"Major",39,0
+"99","Summertime Sadness","Lana Del Rey",2011,1,20333,9.92000046091034,112,56,66,7,0,3,12,"Minor",24,0
+"100","Take Two","BTS",2023,6,674,6.51323011091231,93,62,59,3,0,3,38,"Major",57,1
+"101","Lover","Taylor Swift",2012,1,8448,9.04168500594604,206,43,55,50,0,10,15,"Major",50,1
+"102","Too Many Nights (feat. Don Toliver & with Future)","Future, Metro Boomin, Don Toliver",2022,12,2110,7.65444322647011,88,68,71,15,0,5,11,"Minor",17,1
+"103","Chemical","Post Malone",2023,4,2528,7.83518375526675,170,50,90,0,0,5,12,"Major",37,0
+"104","Mockingbird","Eminem",2004,1,12985,9.47155012409685,84,62,67,21,0,28,13,"Minor",24,0
+"105","New Jeans","NewJeans",2023,7,77,4.34380542185368,134,81,72,51,0,5,12,"Minor",53,0
+"106","Primera Cita","Carin Leon",2022,4,266,5.5834963087817,158,54,40,61,0,6,10,"Major",50,0
+"107","Cold Heart - PNAU Remix","Dua Lipa, Elton John, Pnau",2017,11,21097,9.95688612926082,116,80,80,4,0,3,10,"Major",92,0
+"108","Dandelions","Ruth B.",2017,4,3423,8.13827263853019,117,61,69,2,0,3,9,"Major",45,0
+"109","Bones","Imagine Dragons",2021,3,4198,8.34236350038058,114,77,72,2,0,5,7,"Minor",65,0
+"110","Set Fire to the Rain","Adele",2011,1,14739,9.59825232083676,108,61,68,0,0,3,13,"Minor",47,0
+"111","Money Trees","Kendrick Lamar, Jay Rock",2012,1,26792,10.195858614474,144,74,53,7,0,10,21,"Minor",37,0
+"112","Tak Segampang Itu","Anggi Marito",2022,12,213,5.36129216570943,130,51,44,76,0,3,11,"Major",18,0
+"113","LAGUNAS","Jasiel Nuï¿½ï¿½ez, Peso P",2023,6,58,4.06044301054642,116,77,62,33,1,3,15,"Major",79,0
+"114","Mine (Taylor's Version)","Taylor Swift",2023,7,99,4.59511985013459,121,65,78,0,0,4,17,"Major",49,1
+"115","Everybody Wants To Rule The World","Tears For Fears",1985,2,41751,10.639478682088,112,64,81,36,0,6,11,"Major",54,1
+"116","No Role Modelz","J. Cole",2014,12,21164,9.96005690402402,100,70,52,30,0,33,6,"Minor",47,0
+"117","Tattoo","Loreen",2023,2,2988,8.00235954625271,150,55,78,24,0,8,12,"Minor",30,0
+"118","Rara Vez","Taiu, Milo j",2023,2,893,6.7945865808765,120,84,71,18,0,17,34,"Minor",96,0
+"119","VAGABUNDO","Sebastian Yatra, Manuel Turizo, Beï¿½ï",2023,5,1094,6.99759598298193,127,82,85,4,0,6,23,"Minor",89,0
+"120","august","Taylor Swift",2020,7,7324,8.8989119057944,90,51,61,53,0,3,9,"Major",42,0
+"121","LUNA","Junior H, Peso Pluma",2023,6,201,5.30330490805908,128,75,63,33,0,4,15,"Minor",79,0
+"122","Miracle (with Ellie Goulding)","Calvin Harris, Ellie Goulding",2023,3,5120,8.54090971803355,143,64,87,4,4,4,8,"Major",31,0
+"123","Nonsense","Sabrina Carpenter",2022,7,2346,7.76046702921342,139,74,68,3,0,4,26,"Major",68,0
+"124","Que Vuelvas","Carin Leon, Grupo Frontera",2022,12,763,6.63725803128446,162,49,64,19,0,4,11,"Major",78,0
+"125","Por las Noches","Peso Pluma",2021,6,457,6.12468339089421,92,81,60,31,0,3,7,"Major",39,0
+"126","Feliz Cumpleaï¿½ï¿½os Fe","Feid",2022,8,3430,8.14031554015999,95,87,55,10,0,7,29,"Major",57,0
+"127","Can't Hold Us (feat. Ray Dalton)","Ray Dalton, Ryan Lewis, Macklemore",2011,8,6074,8.71177264560569,146,63,93,3,0,8,10,"Major",88,0
+"128","Watermelon Sugar","Harry Styles",2019,11,21915,9.99492661285291,95,55,82,12,0,5,34,"Major",56,0
+"129","lovely - Bonus Track","Billie Eilish, Khalid",2017,8,15032,9.6179365410933,115,35,30,93,0,3,10,"Minor",12,0
+"130","Rauw Alejandro: Bzrp Music Sessions, Vol. 56","Rauw Alejandro, Bizarrap",2023,6,871,6.7696419768525,128,78,65,10,0,5,26,"Major",59,0
+"131","Queencard","(G)I-DLE",2023,5,451,6.11146733950268,130,82,83,3,0,5,27,"Minor",69,0
+"132","OMG","NewJeans",2023,1,1783,7.48605261786314,127,80,77,36,0,4,11,"Minor",74,0
+"133","Radio","Lana Del Rey",2011,1,9389,9.14729407025855,150,42,86,21,0,9,9,"Major",20,0
+"134","Shakira: Bzrp Music Sessions, Vol. 53","Shakira, Bizarrap",2023,1,5724,8.65242314067634,122,78,63,27,0,5,9,"Minor",50,0
+"135","505","Arctic Monkeys",2007,4,13985,9.54574060563606,140,52,85,0,0,5,7,"Major",20,0
+"136","Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)","Swae Lee, A Boogie Wit da Hoodie, Metro Boomin, NAV",2023,6,1051,6.95749737087695,140,63,54,46,0,8,12,"Major",22,0
+"137","Trance (with Travis Scott & Young Thug)","Travis Scott, Young Thug, Metro Boomin",2022,12,1682,7.42773884053289,119,75,53,18,0,34,18,"Minor",48,0
+"138","Tere Vaaste (From ""Zara Hatke Zara Bachke"")","Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya, Varun Jain",2023,5,182,5.2040066870768,110,76,72,32,0,4,9,"Minor",96,1
+"139","Perfect","Ed Sheeran",2017,1,16596,9.71691698145276,95,60,45,16,0,2,11,"Major",17,0
+"140","Romantic Homicide","d4vd",2022,7,2335,7.755767170103,132,56,55,45,1,3,32,"Major",20,0
+"141","Believer","Imagine Dragons",2017,1,18986,9.85145714444174,125,77,78,4,0,11,23,"Minor",74,0
+"142","Novo Balanï¿½","Veigh, Bvga Beatz, Supernova Ent, Prod Malax",2023,5,283,5.64544689764324,124,84,50,67,0,6,13,"Minor",65,0
+"143","Gol Bolinha, Gol Quadrado 2","Mc Pedrinho, DJ 900",2023,6,293,5.68017260901707,133,93,65,42,0,25,12,"Minor",68,0
+"144","Without Me","Eminem",2002,1,21081,9.95612743986031,112,92,66,0,0,9,36,"Major",67,1
+"145","QUEMA","Sog, Ryan Castro, Peso Pluma",2023,7,437,6.07993319509559,97,79,89,5,0,5,6,"Major",92,0
+"146","Stargirl Interlude","The Weeknd, Lana Del Rey",2016,11,1275,7.15070145759253,90,59,48,38,5,11,10,"Minor",52,0
+"147","Ojitos Lindos","Bomba Estï¿½ï¿½reo, Bad B",2022,5,6135,8.72176535714501,80,65,69,8,0,4,53,"Minor",27,0
+"148","Somewhere Only We Know","Keane",2004,1,20015,9.90423727142667,172,45,59,6,0,3,8,"Major",33,0
+"149","Those Eyes","New West",2019,5,1507,7.3178761986265,120,60,35,73,0,3,31,"Major",24,0
+"150","El Gordo Trae El Mando","Chino Pacas",2023,1,539,6.289715570909,140,74,80,18,0,5,5,"Minor",96,1
+"151","Mi Bello Angel","Natanael Cano",2023,6,86,4.45434729625351,128,81,77,1,0,5,9,"Minor",90,0
+"152","Bye","Peso Pluma",2023,5,324,5.78074351579233,122,78,81,57,0,5,10,"Major",70,0
+"153","Danza Kuduro","Don Omar, Lucenzo",2010,1,17138,9.74905349922906,130,47,92,8,0,24,5,"Major",86,0
+"154","Nosso Quadro","Ana Castela, AgroPlay",2023,2,894,6.79570577517351,160,69,71,33,0,20,31,"Major",61,0
+"155","Locked Out Of Heaven","Bruno Mars",2012,12,1622,7.39141523467536,144,73,70,6,0,5,28,"Major",87,0
+"156","Un Finde | CROSSOVER #2","Big One, FMK, Ke personajes",2023,4,561,6.3297209055227,192,50,52,11,0,6,28,"Major",85,0
+"157","Jimmy Cooks (feat. 21 Savage)","Drake, 21 Savage",2022,6,5871,8.67778025606419,163,54,67,0,0,17,9,"Major",40,0
+"158","Counting Stars","OneRepublic",2013,1,29215,10.2824375549885,122,66,71,6,0,4,12,"Minor",48,0
+"159","Ghost","Justin Bieber",2021,3,5866,8.6769282495374,154,61,74,21,0,6,40,"Major",41,0
+"160","Under The Influence","Chris Brown",2019,10,3859,8.25816336153762,117,73,69,6,0,4,11,"Minor",31,0
+"161","PRC","Natanael Cano, Peso Pluma",2023,1,961,6.86797440897029,138,78,83,10,0,5,12,"Minor",89,1
+"162","Gasolina","Daddy Yankee",2004,7,6457,8.77292009262647,96,86,80,33,0,6,8,"Major",74,0
+"163","One Dance","Drake, WizKid, Kyla",2016,4,43257,10.6749143489748,104,77,63,1,0,5,36,"Major",36,0
+"164","Enchanted","Taylor Swift",2010,1,4564,8.42595471098197,164,45,62,8,0,3,16,"Major",24,0
+"165","Save Your Tears","The Weeknd",2020,3,12688,9.44841194387463,118,68,82,2,0,3,50,"Major",61,0
+"166","Sure Thing","Miguel",2010,5,13801,9.53249633228804,81,68,60,3,0,10,19,"Minor",51,0
+"167","Every Breath You Take - Remastered 2003","The Police",1983,1,22439,10.0185557953638,117,82,45,54,0,3,7,"Major",73,0
+"168","The Night We Met","Lord Huron",2015,2,18515,9.82633649334771,174,45,37,97,25,4,64,"Major",10,0
+"169","We Found Love","Rihanna, Calvin Harris",2011,1,36843,10.5144209202785,128,73,77,3,0,4,11,"Major",60,0
+"170","When I Was Your Man","Bruno Mars",2012,12,2420,7.79152281915073,145,60,27,94,0,4,14,"Major",43,0
+"171","Let Me Down Slowly","Alec Benjamin",2018,5,5897,8.6821990260005,150,65,55,73,0,3,14,"Minor",51,0
+"172","Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)","A$AP Rocky, Metro Boomin, Roisee",2023,6,727,6.58892647753352,90,60,53,4,0,4,21,"Minor",13,0
+"173","Do I Wanna Know?","Arctic Monkeys",2013,1,33783,10.4277129963651,85,55,53,17,0,3,22,"Major",42,0
+"174","Demons","Imagine Dragons",2012,1,26694,10.1921941000341,180,33,71,20,0,5,28,"Major",38,0
+"175","ýýýýýýýýýýýý","YOASOBI",2023,4,356,5.87493073085203,166,57,94,11,0,9,37,"Major",84,0
+"176","Reminder","The Weeknd",2016,11,6518,8.78232285939751,160,71,50,16,0,22,16,"Major",40,0
+"177","Shake It Off","Taylor Swift",2014,1,21335,9.9681041956221,160,65,80,5,0,16,41,"Major",95,1
+"178","Why'd You Only Call Me When You're High?","Arctic Monkeys",2013,1,23389,10.0600211053509,92,70,63,4,0,4,8,"Major",81,0
+"179","SNAP","Rosa Linn",2022,3,3202,8.07153089355666,170,56,64,11,0,6,45,"Major",53,0
+"180","Shape of You","Ed Sheeran",2017,1,32181,10.3791314952655,96,83,65,58,0,8,9,"Minor",93,0
+"181","Night Changes","One Direction",2014,11,7124,8.87122464440955,120,67,52,86,0,4,12,"Major",40,0
+"182","Fin de Semana","Oscar Maydon, Junior H",2023,1,592,6.38350663488401,98,70,54,6,0,8,9,"Major",37,0
+"183","Creep","Radiohead",1992,9,36724,10.5111857712636,92,53,34,1,0,4,12,"Major",12,1
+"184","Car's Outside","James Arthur",2019,10,794,6.67708346124714,150,34,56,4,0,3,11,"Major",24,0
+"185","Apocalypse","Cigarettes After Sex",2017,3,13091,9.4796802501801,94,37,47,2,46,3,11,"Major",17,0
+"186","Cheques","Shubh",2023,5,67,4.20469261939097,90,74,63,26,0,5,27,"Minor",36,0
+"187","Pink + White","Frank Ocean",2016,8,21574,9.97924416493538,160,54,55,67,0,11,42,"Major",54,0
+"188","Circles","Post Malone",2019,8,19664,9.88654483180582,120,70,75,24,0,4,9,"Major",59,0
+"189","Just The Way You Are","Bruno Mars",2010,1,21106,9.95731263923104,109,63,85,1,0,5,9,"Major",46,0
+"190","Take Me To Church","Hozier",2013,9,23804,10.0776089127647,129,57,66,63,0,5,12,"Minor",41,0
+"191","Bebe Dame","Fuerza Regida, Grupo Frontera",2022,12,849,6.74405918631135,157,54,60,30,0,5,7,"Major",75,1
+"192","You Belong With Me (Taylorï¿½ï¿½ï¿½s Ve","Taylor Swift",2021,4,2619,7.87054784450771,130,63,73,5,0,3,9,"Major",49,0
+"193","Titi Me Preguntï¿","Bad Bunny",2022,5,9037,9.10908253990196,107,65,72,10,0,25,13,"Minor",19,0
+"194","Better Than Revenge (Taylor's Version)","Taylor Swift",2023,7,86,4.45434729625351,146,50,89,0,0,8,19,"Minor",67,0
+"195","Shut up My Moms Calling","Hotel Ugly",2020,2,1788,7.48885295573346,139,48,41,32,0,10,10,"Minor",37,0
+"196","Have You Ever Seen The Rain?","Creedence Clearwater Revival",1968,7,15890,9.67344525953076,116,74,70,7,0,3,13,"Major",76,0
+"197","Es un Secreto","Plan B",2010,7,492,6.19847871649231,95,84,77,12,0,4,7,"Minor",52,0
+"198","POLARIS - Remix","Feid, Mora, Saiko, Quevedo",2023,6,773,6.65027904858742,170,62,80,15,0,7,37,"Minor",55,0
+"199","Ditto","NewJeans",2022,12,1154,7.05098944706805,134,81,64,3,0,11,10,"Minor",18,0
+"200","Take On Me","a-ha",1984,10,44927,10.712794229303,84,57,90,2,0,5,9,"Minor",86,0
+"201","Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)","Swae Lee, Lil Wayne, Offset, Metro Boomin",2023,6,551,6.31173480915291,146,61,48,21,0,6,12,"Minor",20,0
+"202","Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)","Kodak Black, NLE Choppa, Muni Long, JVKE, Jimin",2023,5,577,6.3578422665081,74,53,67,11,0,28,10,"Minor",24,0
+"203","Acrï¿½ï¿½s","Shakira",2023,5,955,6.86171134048073,144,75,48,84,0,12,10,"Major",35,0
+"204","AMG","Natanael Cano, Gabito Ballesteros, Peso Pluma",2022,11,995,6.90274273715859,136,77,73,15,0,10,27,"Minor",79,0
+"205","Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")","Arijit Singh, Sachin-Jigar, Amitabha Bhattacharya",2023,5,178,5.18178355029209,100,56,55,53,0,4,12,"Major",53,0
+"206","S-Class","Stray Kids",2023,6,290,5.66988092298052,105,89,78,9,0,33,7,"Minor",67,0
+"207","Hits Different","Taylor Swift",2023,5,547,6.30444880242198,106,67,78,15,0,4,30,"Major",24,0
+"208","Chanel","Becky G, Peso Pluma",2023,3,681,6.52356230614951,132,85,68,40,0,4,9,"Major",53,0
+"209","Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)","Metro Boomin, Coi Leray",2023,6,332,5.80513496891649,120,78,30,21,0,5,13,"Major",5,0
+"210","Area Codes","Kaliii, Kaliii",2023,3,1197,7.08757370555797,155,82,39,2,0,49,9,"Major",51,0
+"211","Abcdario","Junior H, Eden Muï¿½ï",2023,5,262,5.5683445037611,129,70,43,78,0,3,11,"Major",42,0
+"212","Obsessed","Abhijay Sharma, Riar Saab",2022,9,161,5.08140436498446,135,80,74,62,0,9,8,"Minor",85,0
+"213","Piï¿½ï¿½man Deï¿","Semicenk, Doï¿½ï¿½u ",2023,6,185,5.22035582507832,98,73,62,28,0,13,13,"Minor",45,0
+"214","FLOWER","JISOO",2023,3,839,6.73221070646721,124,84,39,3,0,4,11,"Minor",64,0
+"215","All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)","Future, Lil Uzi Vert, Metro Boomin",2023,6,259,5.55682806169954,135,77,55,18,0,15,22,"Minor",28,0
+"216","Eyes Closed","Ed Sheeran",2023,3,2915,7.97762509878459,107,78,53,30,0,6,11,"Major",39,0
+"217","Escapism.","RAYE, 070 Shake",2022,10,5129,8.54266598738927,96,54,74,14,0,11,9,"Major",25,0
+"218","La Jumpa","Arcangel, Bad Bunny",2022,11,3794,8.24117615049496,123,71,70,30,0,19,32,"Major",58,0
+"219","Karma (feat. Ice Spice)","Taylor Swift, Ice Spice",2023,5,588,6.37672694789863,90,62,62,6,0,6,58,"Major",7,0
+"220","Superhero (Heroes & Villains) [with Future & Chris Brown]","Future, Chris Brown, Metro Boomin",2022,12,2959,7.99260665240021,117,72,59,14,0,21,20,"Minor",45,0
+"221","Las Morras","BLESSD, Peso Pluma",2023,4,291,5.67332326717149,133,78,84,31,0,4,7,"Minor",90,0
+"222","CHORRITO PA LAS ANIMAS","Feid",2022,12,2321,7.74975340627444,96,74,83,11,0,6,35,"Minor",61,0
+"223","Ch y la Pizza","Fuerza Regida, Natanael Cano",2022,12,536,6.2841341610708,149,66,60,40,0,13,14,"Major",85,0
+"224","Snow On The Beach (feat. More Lana Del Rey)","Lana Del Rey, Taylor Swift",2023,5,359,5.88332238848828,110,66,40,81,0,3,11,"Minor",32,0
+"225","Players","Coi Leray",2022,11,4096,8.31776616671934,105,95,52,3,0,16,5,"Major",62,0
+"226","Bite Me","ENHYPEN",2023,5,349,5.85507192220243,105,80,78,28,0,14,11,"Major",69,0
+"227","Stand By Me (feat. Morgan Wallen)","Lil Durk, Morgan Wallen",2023,5,381,5.9427993751267,134,76,58,6,0,3,16,"Major",61,0
+"228","Normal","Feid",2022,7,2461,7.80832305039106,170,71,56,4,0,12,27,"Minor",59,0
+"229","Hummingbird (Metro Boomin & James Blake)","James Blake, Metro Boomin",2023,6,277,5.62401750618734,81,59,60,46,1,13,25,"Major",26,0
+"230","Seu Brilho Sumiu - Ao Vivo","Israel & Rodolffo, Mari Fernandez",2023,3,967,6.87419849545329,154,63,92,31,0,5,91,"Major",75,0
+"231","Bad Habit","Steve Lacy",2022,6,8186,9.01018065705235,169,69,51,63,0,4,38,"Major",69,0
+"232","CUFF IT","Beyoncï¿",2022,7,7842,8.96724918285228,115,78,69,4,0,14,7,"Major",64,1
+"233","Lilith (feat. SUGA of BTS) (Diablo IV Anthem)","Halsey, Suga",2023,6,215,5.37063802812766,84,43,74,1,0,8,19,"Minor",14,0
+"234","69","Nicky Jam, Feid",2023,5,1134,7.0335064842877,93,79,62,11,0,23,11,"Major",58,0
+"235","Niï¿½ï¿½a Bo","Sean Paul, Feid",2023,4,1305,7.17395831975679,91,82,62,10,0,15,10,"Major",47,1
+"236","Search & Rescue","Drake",2023,4,2066,7.63336964967958,142,82,44,6,0,7,33,"Minor",54,0
+"237","AMERICA HAS A PROBLEM (feat. Kendrick Lamar)","Kendrick Lamar, Beyoncï¿",2023,5,896,6.79794041297493,126,78,70,1,0,4,16,"Major",20,0
+"238","Lavender Haze","Taylor Swift",2022,10,3763,8.23297179059344,97,73,44,26,0,8,16,"Major",10,0
+"239","Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )","WizKid, Toian, Metro Boomin, Don Toliver, Beam",2023,6,197,5.28320372873799,101,92,51,41,51,8,26,"Major",59,0
+"240","Efecto","Bad Bunny",2022,5,4004,8.29504914043511,98,80,48,14,0,5,6,"Minor",23,1
+"241","Erro Gostoso - Ao Vivo","Simone Mendes",2023,1,984,6.89162589705225,154,59,89,18,0,9,80,"Major",63,0
+"242","Cupido","Tini",2023,2,1240,7.12286665859908,120,91,58,52,0,22,31,"Major",63,0
+"243","Just Wanna Rock","Lil Uzi Vert",2022,10,3995,8.29279885820037,150,49,55,7,0,3,6,"Major",4,0
+"244","Unstoppable","Sia",2016,1,7681,8.94650502599868,174,47,78,11,0,8,10,"Major",27,0
+"245","Until I Found You","Stephen Sanchez",2021,9,4427,8.39547743273214,202,34,51,69,0,4,18,"Major",25,0
+"246","Rich Flex","Drake, 21 Savage",2022,11,4657,8.44612674298238,153,56,52,5,0,24,36,"Minor",42,0
+"247","Easy On Me","Adele",2021,10,10195,9.22965268300856,142,60,37,58,0,3,13,"Major",13,0
+"248","Cartï¿½ï¿½o B","MC Caverinha, KayBlack",2023,5,269,5.59471137960184,108,84,47,26,0,64,20,"Minor",55,0
+"249","Danger (Spider) (Offset & JID)","Offset, JID",2023,6,214,5.36597601502185,143,83,69,4,0,12,23,"Major",25,0
+"250","Oi Balde - Ao Vivo","Zï¿½ï¿½ Neto & Crist",2023,2,845,6.73933662735717,108,67,67,60,0,5,80,"Major",55,0
+"251","The Real Slim Shady","Eminem",2000,1,20763,9.94092783550997,104,95,66,3,0,6,4,"Minor",78,0
+"252","MERCHO","Migrantes, LiL CaKe, Nico Valdi",2022,12,1267,7.14440718032114,93,84,79,43,0,11,18,"Minor",96,0
+"253","The Color Violet","Tory Lanez",2021,12,2585,7.85748078694253,105,65,53,16,0,5,9,"Minor",46,0
+"254","Glimpse of Us","Joji",2022,6,6330,8.75305551513822,170,44,32,89,0,5,14,"Major",27,0
+"255","Mejor Que Yo","Mambo Kingz, DJ Luian, Anuel Aa",2023,5,675,6.51471269087253,178,62,66,18,0,5,12,"Minor",56,0
+"256","Curtains","Ed Sheeran",2023,5,715,6.57228254269401,176,50,76,10,0,5,32,"Minor",44,0
+"257","UNFORGIVEN (feat. Nile Rodgers)","Nile Rodgers, LE SSERAFIM",2023,5,327,5.78996017089725,104,80,88,11,0,5,11,"Minor",38,0
+"258","Haegeum","Agust D",2023,4,244,5.4971682252932,85,70,84,31,0,30,47,"Major",83,1
+"259","Conexï¿½ï¿½es de Mï¿½ï¿½fia (feat. Rich ","Rich The Kid, Matuï¿",2023,4,385,5.95324333428778,117,77,58,39,0,5,26,"Minor",69,0
+"260","MIENTRAS ME CURO DEL CORA","Karol G",2023,2,1020,6.92755790627832,80,52,48,86,0,39,15,"Major",57,0
+"261","Never Felt So Alone","Labrinth",2023,4,1730,7.45587668749182,98,44,41,50,0,5,38,"Major",36,0
+"262","X SI VOLVEMOS","Karol G, Romeo Santos",2023,2,2127,7.66246781520024,178,79,78,34,0,25,11,"Minor",58,0
+"263","ceilings","Lizzy McAlpine",2022,4,3242,8.08394570229562,148,51,33,48,0,3,22,"Major",27,0
+"264","Cupid","Fifty Fifty",2023,2,526,6.26530121273771,120,77,66,65,0,3,38,"Major",94,0
+"265","I AM","IVE",2023,4,366,5.90263333340137,122,68,88,1,0,5,8,"Minor",38,0
+"266","Cupid ï¿½ï¿½ï¿½ Twin Ver. (FIFTY FIFTY) ï¿½ï¿½ï¿½ Spe","sped up 8282",1997,1,472,6.15697898558556,144,74,73,42,0,4,9,"Major",75,0
+"267","Shorty Party","Cartel De Santa, La Kelly",2023,3,432,6.06842558824411,96,93,47,33,0,36,10,"Major",47,0
+"268","Super","SEVENTEEN",2023,4,271,5.6021188208797,137,77,88,16,0,9,17,"Major",35,0
+"269","Slut Me Out","NLE Choppa",2022,4,816,6.70441435496411,121,94,61,12,0,42,53,"Minor",71,0
+"270","Double Fantasy (with Future)","The Weeknd, Future",2023,4,1169,7.06390396147207,119,60,57,1,0,3,50,"Minor",10,0
+"271","All Of The Girls You Loved Before","Taylor Swift",2019,8,1282,7.15617663748062,96,72,47,71,0,4,13,"Major",40,0
+"272","PROVENZA","Karol G",2022,4,6587,8.79285328864069,111,87,52,66,1,5,11,"Major",53,0
+"273","Princess Diana (with Nicki Minaj)","Nicki Minaj, Ice Spice",2023,4,1444,7.27517231945277,148,90,68,14,0,19,10,"Major",74,0
+"274","Di Que Si","Grupo Marca Registrada, Grupo Frontera",2023,2,356,5.87493073085203,182,57,59,8,0,5,6,"Major",80,0
+"275","Shivers","Ed Sheeran",2021,9,10147,9.22493337427908,141,79,86,28,0,9,4,"Major",82,0
+"276","Igualito a Mi Apï¿","Fuerza Regida, Peso Pluma",2022,12,265,5.57972982598622,145,76,81,19,0,9,6,"Minor",80,0
+"277","Shoong! (feat. LISA of BLACKPINK)","TAEYANG, Lisa",2023,4,351,5.86078622346587,110,76,70,1,0,6,41,"Minor",26,0
+"278","Komang","Raim Laode",2022,8,158,5.06259503302697,134,70,41,41,0,3,10,"Major",35,1
+"279","DESPECHï¿","ROSALï¿½",2022,7,7613,8.93761259130621,130,92,62,18,0,10,6,"Major",78,1
+"280","Made You Look","Meghan Trainor",2022,10,3956,8.2829886927426,145,84,53,35,0,7,8,"Major",88,0
+"281","Watch This - ARIZONATEARS Pluggnb Remix","sped up nightcore, ARIZONATEARS, Lil Uzi Vert",2023,2,1638,7.40123126441302,130,69,90,1,10,4,15,"Minor",36,0
+"282","No Se Va","Grupo Frontera",2022,4,924,6.82871207164168,173,59,53,12,0,3,23,"Major",69,0
+"283","Punto G","Quevedo",2022,11,1985,7.59337419312129,92,75,76,25,0,15,10,"Minor",55,0
+"284","Lovers Rock","TV Girl",2014,6,6339,8.75447630628417,105,56,87,0,1,4,10,"Minor",57,0
+"285","METAMORPHOSIS","INTERWORLD",2021,11,1561,7.35308192051543,175,59,64,43,90,10,12,"Minor",15,1
+"286","Mami Chula","Quevedo, Jhayco",2023,4,875,6.77422388635761,120,80,70,22,0,4,9,"Minor",33,1
+"287","En Paris","El Chachito, Junior H",2022,12,406,6.00635315960173,139,70,48,37,0,5,12,"Minor",77,0
+"288","Set Me Free Pt.2","Jimin",2023,3,340,5.82894561761021,132,59,82,12,0,6,12,"Minor",56,0
+"289","I Was Never There","The Weeknd, Gesaffelstein",2018,3,4188,8.33997857199043,114,32,74,14,0,3,17,"Major",17,0
+"290","Don't ever say love me (feat. RM of BTS)","RM, Colde",2023,5,105,4.65396035015752,145,54,48,36,0,5,37,"Minor",19,0
+"291","Shut Down","BLACKPINK",2022,9,1524,7.32909373624659,110,82,69,0,0,4,18,"Major",67,0
+"292","Gato de Noche","Nengo Flow, Bad Bunny",2022,12,2651,7.88269220628903,94,89,66,17,0,16,36,"Major",61,0
+"293","Call Out My Name","The Weeknd",2018,3,11087,9.31352852977235,134,45,60,21,0,4,33,"Major",17,0
+"294","Like Crazy (English Version)","Jimin",2023,3,373,5.92157841964382,120,62,76,0,0,4,39,"Major",32,1
+"295","Rosa Pastel","Jasiel Nuï¿½ï¿½ez, Peso P",2023,2,200,5.29831736654804,123,70,68,24,0,4,11,"Minor",86,1
+"296","Sunroof","Nicky Youre, Dazy",2021,12,3741,8.22710823434815,131,77,71,35,0,4,15,"Major",84,0
+"297","Lose Yourself - Soundtrack Version","Eminem",2002,1,32502,10.389056904886,171,70,73,1,0,26,36,"Major",6,0
+"298","Superman","Eminem, Dina Rae",2002,5,7615,8.93787526532926,130,80,76,2,0,6,20,"Minor",64,0
+"299","Mas Rica Que Ayer","Mambo Kingz, DJ Luian, Anuel Aa",2023,3,1208,7.09672137849476,94,82,67,34,0,8,9,"Major",53,0
+"300","People Pt.2 (feat. IU)","IU, Agust D",2023,4,209,5.34233425196481,89,73,57,39,0,6,32,"Minor",44,1
+"301","REMIX EXCLUSIVO","Feid",2023,3,1235,7.11882624906208,87,65,56,4,0,20,15,"Minor",71,0
+"302","Arcï¿½ï¿½ngel: Bzrp Music Sessions, Vol","Arcangel, Bizarrap",2023,3,654,6.4831073514572,124,72,78,55,0,30,15,"Minor",79,0
+"303","DOGTOOTH","Tyler, The Creator",2023,3,1479,7.2991214627108,78,71,65,51,0,32,22,"Major",80,0
+"304","10:35","Tiï¿½ï¿½sto, Tate M",2022,11,4942,8.50552538654856,120,70,79,7,0,10,18,"Major",70,0
+"305","SORRY NOT SORRY","Tyler, The Creator",2023,3,709,6.56385552653213,96,48,80,40,0,20,37,"Minor",50,0
+"306","HAPPY","NF",2023,3,660,6.49223983502047,106,73,86,31,0,4,12,"Major",22,1
+"307","La Bebe","Yng Lvcas",2021,12,489,6.19236248947487,170,78,46,62,0,35,12,"Minor",75,0
+"308","I Know - PR1SVX Edit","Kanii, PR1ISVX",2023,3,407,6.00881318544259,134,67,76,8,47,7,30,"Minor",11,0
+"309","Late Night Talking","Harry Styles",2022,5,7461,8.91744473247151,115,71,73,30,0,5,11,"Major",90,0
+"310","Leï¿½","Marï¿½ï¿½lia Mendo",2022,12,993,6.90073066404517,130,74,87,45,0,3,30,"Major",79,0
+"311","Save Your Tears (with Ariana Grande) (Remix)","Ariana Grande, The Weeknd",2020,3,9161,9.12271062201521,118,65,79,3,0,3,10,"Major",63,0
+"312","Something in the Orange","Zach Bryan",2022,4,3282,8.09620827165004,110,59,38,42,0,3,12,"Major",22,1
+"313","VOID","Melanie Martinez",2023,3,596,6.39024066706535,100,72,66,18,4,4,19,"Major",42,0
+"314","Dijeron Que No La Iba Lograr","Fuerza Regida, Chino Pacas",2023,3,320,5.76832099579377,142,70,79,26,0,7,11,"Minor",76,1
+"315","Midnight Rain","Taylor Swift",2022,10,2612,7.86787149039632,140,64,37,72,0,7,12,"Major",18,0
+"316","If We Ever Broke Up","Mae Stephens",2023,2,2040,7.62070508683826,116,90,73,62,0,4,9,"Major",96,1
+"317","You Proof","Morgan Wallen",2022,5,2128,7.66293785046154,120,73,85,25,0,3,61,"Major",64,0
+"318","LA INOCENTE","Feid, Mora",2022,4,2598,7.86249719723055,92,76,79,31,0,6,7,"Minor",46,0
+"319","Malas Decisiones","Kenia OS",2022,10,542,6.29526600143965,110,81,79,5,0,3,31,"Minor",64,0
+"320","Murder In My Mind","Kordhell",2022,1,2459,7.80751004221619,120,71,97,1,0,11,13,"Major",57,0
+"321","Gangsta's Paradise","Coolio, L.V.",1995,7,10624,9.27087087171621,80,63,61,9,0,6,56,"Major",40,0
+"322","CAIRO","Karol G, Ovy On The Drums",2022,11,2418,7.79069603117474,115,95,69,47,0,31,9,"Minor",43,0
+"323","I Love You So","The Walters",2014,11,7536,8.9274468162562,76,58,67,65,0,4,13,"Major",46,0
+"324","Dark Red","Steve Lacy",2017,2,10431,9.25253742067597,172,60,78,45,0,6,12,"Major",77,0
+"325","Say You Won't Let Go","James Arthur",2016,9,15722,9.6628162843537,99,40,56,69,0,5,9,"Major",45,0
+"326","The Hills","The Weeknd",2015,5,25744,10.1559568692322,136,36,57,9,0,8,14,"Minor",12,0
+"327","Heart To Heart","Mac DeMarco",2019,5,1640,7.40245152081824,150,90,14,67,35,10,11,"Minor",64,0
+"328","Peaches (from The Super Mario Bros. Movie)","Jack Black",2023,4,34,3.52636052461616,92,71,31,79,0,5,10,"Minor",41,0
+"329","Marisola - Remix","Duki, NICKI NICOLE, Cris Mj, Standly, Stars Music Chile",2022,12,1845,7.52023455647463,95,77,87,17,0,5,7,"Major",72,0
+"330","LOKERA","Brray, Rauw Alejandro, Lyanno",2022,7,3301,8.10198073185319,102,83,83,21,0,5,10,"Minor",58,0
+"331","Low","SZA",2022,12,1911,7.55538194424027,145,70,55,43,0,6,16,"Minor",34,0
+"332","Numb","Linkin Park",2003,3,20111,9.9090222080346,110,50,86,0,0,4,64,"Major",24,0
+"333","Tormenta (feat. Bad Bunny)","Gorillaz, Bad Bunny",2023,2,1529,7.33236920592906,95,64,77,46,0,6,38,"Major",30,0
+"334","on the street (with J. Cole)","j-hope, J. Cole",2023,3,615,6.42162226780652,94,68,82,53,0,13,9,"Minor",81,0
+"335","One Thing At A Time","Morgan Wallen",2022,12,811,6.69826805411541,142,61,91,0,0,3,26,"Major",92,1
+"336","Miss You","Robin Schulz, Oliver Tree",2022,8,5730,8.65347080970879,145,59,74,1,0,5,15,"Minor",20,0
+"337","Ainï¿½ï¿½ï¿½t Tha","Morgan Wallen",2023,3,356,5.87493073085203,121,64,80,0,0,3,36,"Minor",67,0
+"338","Thinkinï¿½ï¿½ï¿½ B","Morgan Wallen",2023,3,604,6.40357419793482,140,66,76,49,0,3,12,"Minor",43,0
+"339","Private Landing (feat. Justin Bieber & Future)","Don Toliver, Future, Justin Bieber",2023,2,1190,7.08170858610557,137,84,67,8,0,6,11,"Minor",44,0
+"340","Everything I Love","Morgan Wallen",2023,1,579,6.361302477573,104,56,85,0,0,3,15,"Major",72,0
+"341","Heaven","Niall Horan",2023,2,1553,7.34794382314869,92,57,76,7,0,3,33,"Major",68,0
+"342","LET GO","Central Cee",2022,12,2301,7.74109909003537,146,74,45,86,0,38,21,"Minor",51,0
+"343","Sial","Mahalini",2023,1,134,4.89783979995091,120,56,43,89,0,4,12,"Major",20,0
+"344","I Wrote The Book","Morgan Wallen",2023,1,430,6.06378520868761,144,68,81,9,0,4,8,"Major",83,0
+"345","Apna Bana Le (From ""Bhediya"")","Arijit Singh, Sachin-Jigar",2022,11,86,4.45434729625351,94,59,56,80,0,3,6,"Major",44,0
+"346","SPIT IN MY FACE!","ThxSoMch",2022,10,629,6.44413125670044,94,73,79,5,2,6,11,"Major",65,0
+"347","PLAYA DEL INGLï¿½","Myke Towers, Quevedo",2022,12,1701,7.43897159239586,113,79,74,8,0,5,11,"Minor",66,1
+"348","Man Made A Bar (feat. Eric Church)","Morgan Wallen, Eric Church",2023,3,329,5.79605775076537,148,50,76,12,0,3,12,"Major",49,0
+"349","Red Ruby Da Sleeze","Nicki Minaj",2023,3,1168,7.06304816338817,98,70,73,12,0,26,11,"Major",29,0
+"350","Kahani Suno 2.0","Kaifi Khalil",2022,5,162,5.08759633523238,140,58,38,91,0,4,10,"Major",26,0
+"351","Nobody Gets Me","SZA",2022,12,2536,7.83834331555712,100,36,28,81,0,3,18,"Major",28,1
+"352","PERO Tï¿","Karol G, Quevedo",2023,2,387,5.95842469302978,140,86,79,39,0,29,11,"Major",68,0
+"353","Hype Boy","NewJeans",2022,8,892,6.79346613258001,100,59,94,27,0,23,29,"Minor",78,0
+"354","Bloody Mary","Lady Gaga",2011,1,3909,8.27103686579295,100,59,65,2,0,3,13,"Minor",49,0
+"355","Monotonï¿½","Ozuna, Shakira",2022,10,3645,8.20111164444276,132,87,70,42,0,5,21,"Minor",82,0
+"356","ýýý98 Braves","Morgan Wallen",2023,3,282,5.64190707093811,142,49,67,10,0,3,26,"Major",48,0
+"357","WANDA","Quevedo",2023,1,888,6.78897174299217,176,72,63,25,0,7,21,"Minor",96,0
+"358","Thought You Should Know","Morgan Wallen",2022,5,968,6.87523208727658,140,53,70,49,0,3,14,"Major",51,0
+"359","In The End","Linkin Park",2000,10,25065,10.1292277296976,105,55,90,1,0,6,32,"Minor",40,0
+"360","Zona De Perigo","Leo Santana",2022,12,531,6.27476202124194,135,81,77,75,0,3,35,"Major",97,0
+"361","Lovezinho","Treyce",2022,7,242,5.48893772615669,128,82,59,30,0,4,12,"Minor",61,0
+"362","I Like You (A Happier Song) (with Doja Cat)","Post Malone, Doja Cat",2022,6,5281,8.57187075270693,101,74,69,12,0,7,12,"Major",43,0
+"363","Neverita","Bad Bunny",2022,5,2590,7.85941315469358,122,88,50,7,0,5,14,"Major",43,0
+"364","Vista Al Mar","Quevedo",2022,9,1769,7.47816969415979,105,76,56,80,12,13,10,"Minor",49,0
+"365","Sem Alianï¿½ï¿½a no ","MC Xenon, Os Gemeos da Putaria",2022,12,454,6.11809719804135,83,53,36,73,0,33,11,"Major",40,0
+"366","Enemy (with JID) - from the series Arcane League of Legends","Imagine Dragons, League of Legends, JID, Arcane",2021,9,6180,8.72907355045174,77,72,76,24,0,28,42,"Minor",59,0
+"367","Revenge","XXXTENTACION",2017,8,3600,8.1886891244442,140,75,25,78,0,26,11,"Minor",18,0
+"368","Bombonzinho - Ao Vivo","Israel & Rodolffo, Ana Castela",2022,11,1254,7.13409372119287,158,65,95,31,0,5,92,"Major",72,0
+"369","LA CANCIï¿½","J Balvin, Bad Bunny",2019,6,6398,8.76374072050946,176,75,65,15,0,32,11,"Major",43,1
+"370","Quï¿½ï¿½ Ago","Yuridia, Angela Aguilar",2022,10,660,6.49223983502047,98,73,57,56,0,2,5,"Major",88,0
+"371","Love Again","The Kid Laroi",2023,1,1283,7.15695636461564,107,66,40,72,0,3,11,"Minor",47,0
+"372","After Hours","The Weeknd",2020,2,8084,8.99764207852351,109,66,57,10,1,3,12,"Minor",16,0
+"373","About Damn Time","Lizzo",2022,7,2332,7.75448154747038,109,84,74,10,0,7,34,"Minor",72,0
+"374","Born With A Beer In My Hand","Morgan Wallen",2023,3,203,5.31320597904179,148,53,81,5,0,4,36,"Major",61,0
+"375","ýýýýýýýýýýýýýýýýýýýýý","Fujii Kaze",2020,5,685,6.52941883826223,158,60,76,17,0,5,19,"Minor",52,0
+"376","Besos Moja2","Wisin & Yandel, ROSALï¿½",2022,9,2460,7.80791662892641,94,74,73,6,0,6,10,"Minor",64,0
+"377","Maan Meri Jaan","King",2022,10,288,5.66296048013595,96,70,51,35,0,4,10,"Minor",40,0
+"378","Moscow Mule","Bad Bunny",2022,5,4572,8.4277060249147,100,80,67,29,0,3,12,"Minor",29,0
+"379","My Universe","Coldplay, BTS",2021,9,6127,8.72046051272565,105,58,68,1,0,4,14,"Major",42,0
+"380","Devil Donï¿½ï¿½ï¿½","Morgan Wallen",2023,3,166,5.11198778835654,125,53,66,38,0,3,9,"Major",32,0
+"381","LLYLM","ROSALï¿½",2023,1,1838,7.51643330291563,170,56,63,13,0,27,19,"Minor",56,0
+"382","I'm Not Here To Make Friends","Sam Smith, Calvin Harris, Jessie Reyez",2023,1,1890,7.54433210805369,115,70,90,17,0,6,41,"Major",84,0
+"383","TRUSTFALL","P!nk",2023,1,2098,7.64873978895624,122,64,89,0,0,9,15,"Major",25,0
+"384","ANTIFRAGILE","LE SSERAFIM",2022,10,761,6.63463335786169,105,88,80,8,0,8,11,"Minor",82,0
+"385","Boy's a liar","PinkPantheress",2022,11,1225,7.11069612297883,133,66,84,25,0,4,21,"Major",74,0
+"386","VIBE (feat. Jimin of BTS)","TAEYANG, Jimin",2023,1,415,6.0282785202307,100,79,68,7,0,4,26,"Major",60,0
+"387","Shirt","SZA",2022,10,3469,8.15162164696975,120,82,45,15,3,10,9,"Minor",55,0
+"388","Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By","Rihanna",2022,10,3311,8.10500553754725,177,25,30,90,0,3,13,"Major",17,0
+"389","STAR WALKIN' (League of Legends Worlds Anthem)","Lil Nas X",2022,9,2616,7.86940171257709,142,64,72,15,0,5,9,"Minor",31,0
+"390","Sex, Drugs, Etc.","Beach Weather",2016,11,3006,8.00836557031292,144,57,84,1,1,4,52,"Minor",47,0
+"391","Boy With Luv (feat. Halsey)","Halsey, BTS",2019,4,4260,8.35702443926342,120,65,86,9,0,10,19,"Minor",80,0
+"392","Hey, Mickey!","Baby Tate",2016,9,482,6.1779441140506,135,92,51,55,0,6,15,"Major",73,0
+"393","Calm Down","Rï¿½ï",2022,2,4013,8.29729437026692,107,81,78,38,0,4,12,"Major",82,0
+"394","Jhoome Jo Pathaan","Arijit Singh, Vishal Dadlani, Sukriti Kakar, Vishal-Shekhar, Shekhar Ravjiani, Kumaar",2022,12,138,4.92725368515721,105,82,74,10,0,7,33,"Major",62,1
+"395","Escapism. - Sped Up","RAYE, 070 Shake",2022,11,1368,7.2211050981825,108,44,77,9,0,20,9,"Minor",38,0
+"396","Space Song","Beach House",2015,1,17852,9.78987082574916,147,51,79,22,13,3,14,"Minor",62,0
+"397","Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]","BTS, Jung Kook, FIFA Sound",2022,11,889,6.7900972355139,115,71,88,16,0,4,44,"Major",34,0
+"398","Te Felicito","Shakira, Rauw Alejandro",2022,4,4796,8.4755375161474,174,70,64,23,0,32,8,"Major",57,0
+"399","Muï¿½ï¿½","Steve Aoki, Tini, La Joaqui",2023,1,658,6.48920493132532,90,68,71,3,0,8,31,"Minor",83,0
+"400","TV","Billie Eilish",2022,7,3009,8.00936307663004,141,41,25,84,1,4,14,"Minor",9,0
+"401","I'm Not The Only One","Sam Smith",2014,1,17492,9.76949891253281,82,68,49,56,0,4,8,"Major",50,0
+"402","Heather","Conan Gray",2020,3,6170,8.72745411689943,92,47,43,62,0,3,32,"Major",25,0
+"403","Besharam Rang (From ""Pathaan"")","Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Kumaar, Vishal Dadlani, Shekhar Ravjiani",2022,12,130,4.86753445045558,116,77,80,6,0,4,15,"Minor",65,0
+"404","One Kiss (with Dua Lipa)","Calvin Harris, Dua Lipa",2017,6,27705,10.2293681813014,124,79,86,4,0,11,8,"Minor",59,0
+"405","Sugar Rush Ride","TOMORROW X TOGETHER",2023,1,359,5.88332238848828,125,71,89,1,0,9,17,"Minor",83,0
+"406","Pink Venom","BLACKPINK",2022,8,1963,7.58222919427646,90,80,69,2,0,10,27,"Major",71,0
+"407","WAIT FOR U (feat. Drake & Tems)","Drake, Future, Tems",2022,4,5491,8.61086566727887,83,46,64,31,0,34,7,"Major",34,0
+"408","Don't Start Now","Dua Lipa",2019,10,27119,10.2079898682182,124,79,79,1,0,8,10,"Minor",68,0
+"409","After Dark","Mr.Kitty",2014,8,1776,7.48211892355212,140,58,60,7,41,3,8,"Major",4,0
+"410","Eu Gosto Assim - Ao Vivo","Gustavo Mioto, Mari Fernandez",2022,9,1473,7.29505641646263,154,64,91,15,0,4,72,"Major",61,0
+"411","INDUSTRY BABY (feat. Jack Harlow)","Jack Harlow, Lil Nas X",2021,7,13315,9.49664649824803,150,74,70,2,0,6,5,"Minor",89,0
+"412","MIDDLE OF THE NIGHT","Elley Duhï¿",2020,1,4057,8.30819906320645,186,41,61,2,0,5,12,"Minor",9,0
+"413","Atlantis","Seafret",2015,4,3045,8.021256180144,166,40,48,5,0,3,12,"Minor",23,0
+"414","PUNTO 40","Baby Rasta, Rauw Alejandro",2022,9,3006,8.00836557031292,107,87,83,0,4,9,31,"Major",20,0
+"415","Evoque Prata","DJ Escobar, MC MENOR SG, MC MENOR HR",2022,9,852,6.74758652682932,87,87,52,31,0,24,28,"Major",52,1
+"416","How Do I Say Goodbye","Dean Lewis",2022,8,2163,7.67925142595306,82,40,64,21,0,7,7,"Major",39,0
+"417","Blind","SZA",2022,12,1484,7.30249642372733,114,46,28,91,0,4,21,"Minor",60,0
+"418","Die For You","Joji",2022,11,1703,7.44014668066269,148,47,52,38,13,5,29,"Major",15,0
+"419","Doja","Central Cee",2022,7,4169,8.3354314778808,140,91,57,38,0,29,40,"Major",97,0
+"420","Gatita","Bellakath",2022,10,1054,6.96034772910131,101,90,81,15,24,6,33,"Major",76,1
+"421","Rumble","Skrillex, Flowdan, Fred again..",2022,1,2849,7.95472333449791,140,81,84,5,23,6,6,"Minor",6,0
+"422","Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]","Travis Scott, 21 Savage, Metro Boomin",2022,12,1602,7.3790081276283,88,49,66,19,0,29,18,"Minor",24,1
+"423","Yonaguni","Bad Bunny",2021,6,9644,9.17409123930106,180,64,65,28,0,12,14,"Major",44,0
+"424","Super Freaky Girl","Nicki Minaj",2022,8,4827,8.48198043566049,133,95,89,6,0,24,31,"Major",91,0
+"425","Running Up That Hill (A Deal With God)","Kate Bush",1985,9,21811,9.99016970867185,108,63,55,72,0,6,6,"Minor",20,0
+"426","Dream On","Aerosmith",1973,1,168,5.12396397940326,80,39,43,39,0,3,23,"Minor",24,0
+"427","Limbo","Freddie Dredd",2022,8,688,6.53378883793334,75,80,62,3,6,46,11,"Minor",46,0
+"428","Where Are You Now","Lost Frequencies, Calum Scott",2021,7,10565,9.26530193005016,121,67,64,52,0,10,17,"Minor",26,0
+"429","WORTH NOTHING","Twisted, Oliver Tree",2022,9,1612,7.38523092306657,140,58,62,18,0,8,20,"Minor",17,0
+"430","Bad Habits","Ed Sheeran",2020,9,12755,9.45367863057591,126,81,90,5,0,3,36,"Minor",59,0
+"431","KICK BACK","Kenshi Yonezu",2022,10,574,6.35262939631957,102,58,94,0,0,11,9,"Major",29,0
+"432","Evergreen (You Didnï¿½ï¿½ï¿½t Deserve Me A","Omar Apollo",2022,4,2499,7.82364593083495,82,70,34,60,1,4,11,"Major",31,0
+"433","Good Days","SZA",2020,12,10426,9.25205796532805,121,46,78,23,0,6,72,"Minor",53,0
+"434","Levitating (feat. DaBaby)","Dua Lipa, DaBaby",2020,3,15894,9.67369695850013,103,70,83,1,0,6,7,"Minor",92,0
+"435","Woman","Doja Cat",2021,6,9424,9.15101490589137,108,82,76,9,0,9,12,"Minor",88,0
+"436","Shut up My Moms Calling - (Sped Up)","Hotel Ugly",2022,9,713,6.5694814204143,85,65,47,31,0,10,12,"Minor",36,0
+"437","Ferrari","James Hype, Miggy Dela Rosa",2022,3,7758,8.95647984799991,125,84,69,1,0,5,5,"Minor",70,0
+"438","You're On Your Own, Kid","Taylor Swift",2022,10,2537,7.83873755959928,120,69,39,41,0,6,13,"Major",40,0
+"439","Kesariya (From ""Brahmastra"")","Pritam, Arijit Singh, Amitabh Bhattacharya",2022,7,292,5.67675380226828,94,58,57,57,0,3,10,"Major",44,0
+"440","Agudo Mï¿½ï¿½gi","Styrx, utku INC, Thezth",1930,1,323,5.77765232322266,130,65,80,22,4,5,7,"Minor",49,0
+"441","Payphone","Maroon 5, Wiz Khalifa",2012,1,14143,9.5569750810205,110,74,74,2,0,4,29,"Major",51,0
+"442","All I Want for Christmas Is You","Mariah Carey",1994,10,25653,10.1524158028241,150,34,63,16,0,4,7,"Major",33,1
+"443","Last Christmas","Wham!",1984,1,22153,10.0057282064827,107,74,65,28,0,3,46,"Minor",88,0
+"444","Rockin' Around The Christmas Tree","Brenda Lee",1958,1,14994,9.61540540006301,140,70,41,71,0,5,45,"Major",85,0
+"445","Jingle Bell Rock","Bobby Helms",1957,1,10326,9.24242026543959,119,74,37,84,0,3,6,"Major",78,0
+"446","It's Beginning To Look A Lot Like Christmas","Michael Bublï¿",2011,10,12353,9.42165422753681,93,35,23,91,0,3,29,"Major",38,0
+"447","Santa Tell Me","Ariana Grande",2013,12,9408,9.14931567013841,133,46,63,5,0,18,30,"Major",53,1
+"448","It's the Most Wonderful Time of the Year","Andy Williams",1963,10,8879,9.09144421703233,202,24,60,77,0,4,12,"Major",76,1
+"449","Let It Snow! Let It Snow! Let It Snow!","Dean Martin",1959,11,6512,8.78140190768238,134,45,24,91,0,4,18,"Major",72,0
+"450","Snowman","Sia",2017,1,5140,8.54480835844921,105,72,51,48,0,3,9,"Major",33,0
+"451","Underneath the Tree","Kelly Clarkson",2013,10,6596,8.79421868367949,160,51,81,0,0,5,21,"Major",69,0
+"452","Feliz Navidad","Josï¿½ï¿½ Felic",1970,11,3788,8.23959345430597,148,50,82,47,0,4,34,"Major",96,0
+"453","Holly Jolly Christmas","Michael Bublï¿",2011,10,7655,8.94311430809178,151,65,47,87,0,4,9,"Major",70,1
+"454","Mistletoe","Justin Bieber",2011,1,9577,9.16711966952162,162,67,54,51,0,4,9,"Minor",88,0
+"455","Sleigh Ride","The Ronettes",1963,11,10114,9.22167588163993,92,53,77,40,0,3,32,"Major",84,0
+"456","Seek & Destroy","SZA",2022,12,1007,6.91473089271856,152,65,65,44,18,7,21,"Major",35,0
+"457","Love Language","SZA",2022,12,1127,7.02731451403978,65,71,26,85,0,8,13,"Minor",55,0
+"458","Happy Xmas (War Is Over)","John Lennon, The Harlem Community Choir, The Plastic Ono Band, Yoko Ono",1971,12,10829,9.28998299962838,147,33,61,32,0,3,77,"Major",39,0
+"459","Used (feat. Don Toliver)","SZA, Don Toliver",2022,12,1042,6.94889722231331,150,73,69,53,0,9,32,"Minor",71,0
+"460","A Holly Jolly Christmas - Single Version","Burl Ives",1952,1,7930,8.97840831462889,140,67,36,64,0,3,15,"Major",81,0
+"461","The Christmas Song (Merry Christmas To You) - Remastered 1999","Nat King Cole",1946,11,11500,9.35010231435134,139,36,15,84,0,4,11,"Major",22,0
+"462","Wonderful Christmastime - Edited Version / Remastered 2011","Paul McCartney",1979,11,1685,7.42952084278646,95,75,58,36,0,3,9,"Major",74,0
+"463","Do They Know It's Christmas? - 1984 Version","Band Aid",1984,11,14169,9.55881175856423,115,60,57,0,2,3,27,"Major",23,0
+"464","Ghost in the Machine (feat. Phoebe Bridgers)","SZA, Phoebe Bridgers",2022,12,1634,7.39878627541995,125,62,43,84,3,5,11,"Major",59,0
+"465","Special","SZA",2022,12,906,6.80903930604298,76,60,20,78,0,5,11,"Major",19,0
+"466","Merry Christmas Everyone","Shakin' Stevens",1984,1,1087,6.99117688712121,101,72,87,14,0,3,13,"Minor",91,0
+"467","Let It Snow! Let It Snow! Let It Snow!","Frank Sinatra, B. Swanson Quartet",1950,1,10585,9.26719318356897,143,60,32,88,0,6,34,"Major",86,0
+"468","SOS","SZA",2022,12,827,6.71780469502369,119,51,66,67,0,23,9,"Minor",51,1
+"469","Open Arms (feat. Travis Scott)","SZA, Travis Scott",2022,12,1420,7.25841215059531,78,67,59,76,1,16,15,"Major",22,0
+"470","White Christmas","Bing Crosby, John Scott Trotter & His Orchestra, Ken Darby Singers",1942,1,11940,9.38764938694659,96,23,25,91,0,3,40,"Major",19,0
+"471","Driving Home for Christmas - 2019 Remaster","Chris Rea",1986,1,888,6.78897174299217,180,51,58,36,0,4,18,"Major",87,0
+"472","Christmas (Baby Please Come Home)","Darlene Love",1963,11,9122,9.11844435727165,126,34,76,39,0,5,8,"Major",35,0
+"473","Gone Girl","SZA",2022,12,892,6.79346613258001,150,43,44,57,0,6,15,"Major",42,0
+"474","F2F","SZA",2022,12,989,6.89669433162271,90,53,74,9,0,4,34,"Major",47,0
+"475","Notice Me","SZA",2022,12,819,6.70808408385307,160,72,68,28,0,12,11,"Major",78,0
+"476","Merry Christmas","Ed Sheeran, Elton John",2017,11,2209,7.70029520342012,114,59,94,24,0,4,10,"Major",60,0
+"477","It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)","Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",1958,1,6290,8.74671634969449,113,73,32,77,0,5,15,"Major",72,1
+"478","My Only Wish (This Year)","Britney Spears",2000,11,6952,8.84678466694523,147,67,72,17,0,3,19,"Major",69,0
+"479","Antidepresan","Mabel Matiz, Mert Demir",2022,11,313,5.74620319054015,100,70,59,3,0,3,10,"Minor",92,0
+"480","Wild Flower (with youjeen)","RM",2022,12,353,5.8664680569333,155,49,77,3,0,9,12,"Major",42,0
+"481","I Hate U","SZA",2021,12,4094,8.31727776622123,107,54,39,51,0,16,11,"Minor",41,1
+"482","Raindrops (Insane) [with Travis Scott]","Travis Scott, Metro Boomin",2022,12,880,6.77992190747225,112,80,54,9,0,5,38,"Major",15,0
+"483","SPIT IN MY FACE!","ThxSoMch",2022,10,573,6.35088571671474,166,70,57,9,20,7,11,"Major",57,0
+"484","Deck The Hall - Remastered 1999","Nat King Cole",1959,1,3299,8.10137467122858,107,69,36,81,0,4,8,"Minor",96,0
+"485","Smoking on my Ex Pack","SZA",2022,12,811,6.69826805411541,81,47,68,24,0,38,22,"Major",33,0
+"486","Conceited","SZA",2022,12,899,6.80128303447162,150,79,46,5,0,7,11,"Major",77,0
+"487","Snow On The Beach (feat. Lana Del Rey)","Taylor Swift, Lana Del Rey",2022,10,2415,7.78945456608667,110,66,32,69,0,4,12,"Major",19,0
+"488","Maroon","Taylor Swift",2022,10,2304,7.74240202181578,108,64,40,6,0,6,10,"Major",4,1
+"489","Tubarï¿½ï¿½o Te","Dj LK da Escï¿½ï¿½cia, Tchakabum, mc jhenny, M",2022,9,1003,6.91075078796194,130,89,74,30,0,36,7,"Minor",48,0
+"490","Bejeweled","Taylor Swift",2022,10,2699,7.900636613018,164,70,56,6,0,7,9,"Major",39,1
+"491","Tarot","Bad Bunny, Jhay Cortez",2022,5,2482,7.81681996576455,114,80,68,2,0,4,66,"Minor",42,0
+"492","You Make It Feel Like Christmas (feat. Blake Shelton)","Gwen Stefani, Blake Shelton",2005,9,2577,7.85438121065236,93,63,88,1,0,4,12,"Major",93,0
+"493","Desesperados","Chencho Corleone, Rauw Alejandro",2021,6,6821,8.82776136765472,90,87,69,36,0,8,9,"Minor",51,0
+"494","Too Late","SZA",2022,12,714,6.57088296233958,128,45,68,78,0,8,39,"Major",35,0
+"495","Party","Bad Bunny, Rauw Alejandro",2022,5,3185,8.06620756800626,97,83,80,2,0,9,24,"Major",47,0
+"496","Run Rudolph Run - Single Version","Chuck Berry",1958,1,8612,9.06091185848425,152,69,71,79,0,8,7,"Minor",94,1
+"497","Jingle Bells - Remastered 1999","Frank Sinatra",1957,1,4326,8.372398606513,175,51,34,73,0,5,10,"Major",94,0
+"498","Far","SZA",2022,12,680,6.52209279817015,116,61,55,67,0,8,16,"Major",48,0
+"499","On Time (with John Legend)","John Legend, Metro Boomin",2022,12,398,5.98645200528444,80,33,59,76,0,6,44,"Minor",51,0
+"500","GATï¿½ï¿½","Maldy, Karol G",2022,8,3328,8.1101268019411,93,63,86,26,0,39,21,"Minor",34,0
+"501","ýýýabcdefu","Gayle",2021,8,7215,8.88391747120797,122,70,54,30,0,5,37,"Major",42,0
+"502","Sacrifice","The Weeknd",2022,1,4440,8.39840965542627,122,70,79,3,0,10,7,"Major",91,1
+"503","Is There Someone Else?","The Weeknd",2022,1,2881,7.96589273508453,135,70,58,4,0,3,16,"Minor",60,0
+"504","Fingers Crossed","Lauren Spencer Smith, Lauren Spencer Smith, Lauren Spencer Smith",2022,1,2235,7.71199650704767,109,60,47,62,0,5,31,"Major",45,0
+"505","Out of Time","The Weeknd",2022,1,3711,8.2190566610606,93,65,74,27,0,5,32,"Minor",82,0
+"506","Do It To It","Cherish, ACRAZE",2021,8,12403,9.42569365781533,125,85,81,2,5,9,7,"Minor",64,0
+"507","We Don't Talk About Bruno","Adassa, Mauro Castillo, Stephanie Beatriz, Encanto - Cast, Rhenzy Feliz, Diane Guerrero, Carolina Gaitan",2021,11,2785,7.93200315236138,206,58,45,36,0,8,11,"Minor",83,0
+"508","Pepas","Farruko",2021,6,14114,9.55492249156078,130,76,77,1,0,3,13,"Major",44,1
+"509","How Do I Make You Love Me?","The Weeknd",2022,1,1915,7.55747290161475,121,80,51,2,0,8,9,"Minor",62,1
+"510","Gasoline","The Weeknd",2022,1,2297,7.7393592026891,123,74,73,0,0,5,21,"Minor",35,0
+"511","Infinity","Jaymes Young",2017,6,4375,8.38366179879172,122,67,67,15,0,4,30,"Minor",50,0
+"512","Less Than Zero","The Weeknd",2022,1,2800,7.9373746961633,143,53,79,0,0,3,8,"Major",50,0
+"513","Take My Breath","The Weeknd",2021,8,2597,7.86211221166275,121,70,77,1,0,4,26,"Minor",35,0
+"514","good 4 u","Olivia Rodrigo",2021,5,15563,9.65265158120501,166,56,66,28,0,18,11,"Minor",68,0
+"515","Here We Goï¿½ï¿½ï¿½ Again (feat. Tyler, the Cr","The Weeknd, Tyler, The Creator",2022,1,1420,7.25841215059531,135,41,64,36,0,3,60,"Major",27,0
+"516","Best Friends","The Weeknd",2022,1,1292,7.16394668434255,87,49,59,44,0,21,35,"Minor",49,0
+"517","Kiss Me More (feat. SZA)","SZA, Doja Cat",2021,4,15867,9.67199675973409,111,77,66,30,0,3,13,"Major",74,0
+"518","I Heard You're Married (feat. Lil Wayne)","The Weeknd, Lil Wayne",2022,1,1178,7.07157336421153,110,75,84,10,0,19,31,"Major",85,0
+"519","Need To Know","Doja Cat",2021,6,6672,8.80567494403858,130,66,61,30,0,7,9,"Major",19,0
+"520","MONTERO (Call Me By Your Name)","Lil Nas X",2020,9,12329,9.41970948986855,179,61,51,30,0,15,38,"Minor",76,0
+"521","love nwantiti (ah ah ah)","Ckay",2019,7,5669,8.6427680143243,93,74,73,61,0,4,13,"Minor",53,0
+"522","Dawn FM","The Weeknd",2022,1,811,6.69826805411541,78,27,49,62,0,5,49,"Minor",10,0
+"523","Surface Pressure","Jessica Darrow",2021,11,1756,7.47079377419506,180,65,58,2,0,31,4,"Major",37,0
+"524","Starry Eyes","The Weeknd",2022,1,1014,6.92165818415113,86,28,41,50,0,3,19,"Minor",13,0
+"525","THATS WHAT I WANT","Lil Nas X",2021,9,7963,8.98256109225744,88,74,85,1,0,22,5,"Minor",55,0
+"526","One Right Now (with The Weeknd)","The Weeknd, Post Malone",2021,11,4771,8.47031120551611,97,68,78,4,0,5,7,"Major",72,0
+"527","Beggin","Mï¿½ï¿½ne",2017,12,8559,9.05473863988161,134,71,80,13,0,5,36,"Minor",59,0
+"528","Mon Amour - Remix","Aitana, zzoilo",2020,9,3221,8.0774471493312,116,75,76,12,0,10,10,"Major",36,0
+"529","Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)","Julieta Venegas, Bad Bunny, Tainy",2021,10,3423,8.13827263853019,170,64,70,9,0,8,9,"Minor",14,0
+"530","MONEY","Lisa",2021,9,2566,7.85010354517558,140,83,55,16,0,23,14,"Minor",40,0
+"531","The Motto","Tiï¿½ï¿½sto, Ava",2021,11,9151,9.12161844191538,118,75,76,3,0,4,9,"Minor",46,1
+"532","Happier Than Ever","Billie Eilish",2021,7,8476,9.04499391938819,65,31,24,76,0,4,14,"Major",31,0
+"533","Moth To A Flame (with The Weeknd)","The Weeknd, Swedish House Mafia",2021,10,7495,8.9219914105367,120,56,67,0,0,4,11,"Minor",16,0
+"534","traitor","Juan Cruz Toledo, Huilen Toledo",2021,5,5257,8.56731580081945,176,29,33,68,0,5,12,"Major",12,0
+"535","Toxic","BoyWithUke",2021,9,1795,7.49276030092238,180,59,61,84,0,36,46,"Minor",69,0
+"536","drivers license","Olivia Rodrigo",2021,1,12685,9.44817547203338,144,59,43,76,0,7,10,"Major",21,0
+"537","Malvadï¿½ï¿","Xamï¿½ï¿½, Gustah, Neo B",2021,11,648,6.47389069635227,133,82,61,38,0,27,14,"Minor",52,0
+"538","All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)","Taylor Swift",2021,11,4635,8.44139147799996,93,63,52,28,0,3,9,"Major",21,0
+"539","Donï¿½ï¿½ï¿½t Break My","The Weeknd",2022,1,1184,7.07665381544395,122,77,62,34,0,3,23,"Major",25,0
+"540","Oh My God","Adele",2021,11,4431,8.39638057119949,88,53,73,9,0,5,3,"Major",55,0
+"541","Entre Nosotros (Remix) [con Nicki Nicole]","Lit Killah, Maria Becerra, Tiago pzk, NICKI NICOLE",2022,1,759,6.63200177739563,170,70,44,40,0,4,37,"Minor",61,0
+"542","A Tale By Quincy","The Weeknd",2022,1,733,6.59714570188665,94,46,50,71,0,11,10,"Minor",55,0
+"543","I AM WOMAN","Emmy Meli",2021,11,2795,7.9355873855892,170,65,47,12,0,16,13,"Major",46,0
+"544","Medallo","Justin Quiles, Lenny Tavï¿½ï¿½rez, BL",2021,10,2780,7.93020620668468,90,79,70,57,0,8,66,"Minor",79,0
+"545","It'll Be Okay","Shawn Mendes",2021,12,1950,7.57558465155779,78,40,29,62,0,3,9,"Major",7,1
+"546","Softcore","The Neighbourhood",2018,3,3947,8.28071107566285,94,57,58,5,0,3,15,"Major",36,0
+"547","Super Gremlin","Kodak Black",2021,10,2551,7.84424071814181,73,83,41,0,0,14,36,"Major",11,0
+"548","Volvï¿","Aventura, Bad Bunny",2021,8,5375,8.58951385299586,176,73,86,42,0,18,7,"Major",79,0
+"549","Todo De Ti","Rauw Alejandro",2020,11,11975,9.39057642227912,128,81,63,40,1,4,10,"Minor",57,0
+"550","Love Nwantiti - Remix","Ckay, AX'EL, Dj Yo!",2019,8,2696,7.8995244720322,120,58,60,44,9,6,5,"Major",44,0
+"551","Smokin Out The Window","Bruno Mars, Anderson .Paak, Silk Sonic",2021,11,4963,8.50976567558744,82,63,62,6,0,4,35,"Major",85,0
+"552","Meet Me At Our Spot","THE ANXIETY, Willow, Tyler Cole",2020,3,6734,8.81492459972102,95,77,47,2,0,3,9,"Major",40,0
+"553","Every Angel is Terrifying","The Weeknd",2022,1,715,6.57228254269401,118,44,94,11,0,29,4,"Major",52,0
+"554","Tacones Rojos","Sebastian Yatra",2021,10,3047,8.02191277898571,123,75,86,8,0,3,14,"Minor",93,0
+"555","Peaches (feat. Daniel Caesar & Giveon)","Justin Bieber, Daniel Caesar, Giveon",2021,3,14140,9.55676293945056,90,63,68,38,0,18,42,"Major",49,0
+"556","Dakiti","Bad Bunny, Jhay Cortez",2020,10,11215,9.32500744695431,110,73,57,40,0,5,11,"Minor",14,0
+"557","Tiago PZK: Bzrp Music Sessions, Vol. 48","Bizarrap, Tiago pzk",2021,12,1678,7.42535788702715,96,66,82,47,0,32,10,"Minor",76,0
+"558","Lï¿½ï¿½ï¿","Stromae",2022,1,2035,7.6182510978767,88,56,55,35,0,11,23,"Minor",58,0
+"559","Nostï¿½ï¿½l","Chris Brown, Rvssian, Rauw Alejandro",2021,9,2780,7.93020620668468,98,73,85,17,0,5,24,"Minor",60,0
+"560","Better Days (NEIKED x Mae Muller x Polo G)","NEIKED, Mae Muller, Polo G",2021,9,4091,8.3165447179294,110,72,68,0,0,4,14,"Minor",67,0
+"561","Life Goes On","Oliver Tree",2020,7,2868,7.96137020171951,80,70,49,19,0,8,12,"Major",57,0
+"562","Sad Girlz Luv Money Remix (feat. Kali Uchis)","Kali Uchis, Amaarae, Moliy",2021,9,3643,8.20056279700856,110,86,53,43,0,6,11,"Minor",31,0
+"563","Butter","BTS",2021,5,4779,8.47198659857816,110,79,36,0,0,11,6,"Major",70,0
+"564","pushin P (feat. Young Thug)","Young Thug, Future, Gunna",2022,1,3517,8.16536363247398,78,77,42,1,1,19,13,"Minor",49,0
+"565","You Right","Doja Cat, The Weeknd",2021,6,5073,8.53168763756669,129,83,62,2,0,6,8,"Major",44,0
+"566","deja vu","Olivia Rodrigo",2021,4,7545,8.92864037120195,181,44,60,61,0,9,42,"Major",22,0
+"567","Dynamite","BTS",2020,8,8528,9.05111014640562,114,75,77,1,0,10,9,"Minor",74,0
+"568","TO THE MOON","Jnr Choi",2021,11,2979,7.99934295271328,144,74,65,5,1,35,11,"Major",39,0
+"569","Lost in the Fire","The Weeknd, Gesaffelstein",2019,1,7731,8.95299349932047,101,66,68,9,0,4,12,"Major",18,0
+"570","Salimo de Noche","Trueno, Tiago pzk",2021,10,1057,6.96318998587024,84,67,63,29,0,5,12,"Major",78,0
+"571","Volando - Remix","Sech, Bad Bunny, Mora",2021,7,3272,8.09315669772264,154,66,69,21,0,7,11,"Major",63,0
+"572","Leave The Door Open","Bruno Mars, Anderson .Paak, Silk Sonic",2021,3,14417,9.5761633448119,148,59,62,18,0,3,9,"Major",72,0
+"573","Knife Talk (with 21 Savage ft. Project Pat)","Drake, Project Pat, 21 Savage",2021,9,5199,8.55622157838371,146,85,37,13,0,30,7,"Minor",22,0
+"574","Don't Be Shy","Tiï¿½ï¿½sto, Kar",2021,8,6026,8.70383871969025,120,77,79,20,0,6,26,"Minor",51,0
+"575","Love Grows (Where My Rosemary Goes)","Edison Lighthouse",1970,1,2877,7.96450336355155,110,53,69,7,0,3,17,"Major",75,0
+"576","LA FAMA (with The Weeknd)","The Weeknd, ROSALï¿½",2021,11,4640,8.4424696452203,136,77,30,95,0,5,13,"Minor",82,0
+"577","The Family Madrigal","Olga Merediz, Stephanie Beatriz, Encanto - Cast",2021,11,1150,7.0475172213573,141,59,63,12,0,36,6,"Major",56,0
+"578","Phantom Regret by Jim","The Weeknd",2022,1,768,6.64378973314767,108,46,48,75,30,4,14,"Minor",23,0
+"579","Dos Oruguitas","Sebastian Yatra",2021,11,925,6.82979373751242,94,42,36,76,0,5,9,"Major",47,0
+"580","Freaks","Surf Curse",2015,5,3006,8.00836557031292,180,35,94,0,63,5,5,"Major",41,0
+"581","Acapulco","Jason Derulo",2021,9,3098,8.03851202097681,122,77,79,5,0,5,16,"Major",51,0
+"582","Daddy Issues","The Neighbourhood",2015,10,9771,9.18717409394434,85,59,52,7,15,3,12,"Major",33,0
+"583","thought i was playing","21 Savage, Gunna",2022,1,807,6.69332366826995,148,68,73,0,0,7,7,"Major",29,0
+"584","ELEVEN","IVE",2021,12,521,6.25575004175337,120,83,73,6,0,11,5,"Major",59,0
+"585","Mood (feat. Iann Dior)","24kgoldn, Iann Dior",2020,7,12854,9.46141032593123,91,70,72,22,0,4,27,"Minor",76,1
+"586","What Else Can I Do?","Stephanie Beatriz, Diane Guerrero",2021,11,802,6.68710860786651,120,72,71,26,0,4,10,"Major",54,0
+"587","DANCE CRIP","Trueno",2021,11,731,6.59441345974978,106,86,79,11,0,9,8,"Major",86,0
+"588","Miserable Man","David Kushner",2022,1,788,6.66949808985788,110,63,35,93,0,3,29,"Major",31,0
+"589","happier","Olivia Rodrigo",2021,5,3069,8.02910705461974,169,39,45,81,0,13,8,"Major",36,0
+"590","Praise God","Kanye West",2021,8,4651,8.4448375292241,118,80,55,1,0,17,26,"Major",21,0
+"591","Get Into It (Yuh)","Doja Cat",2021,6,4999,8.51699317141357,92,91,66,32,0,16,9,"Minor",79,0
+"592","Before You Go","Lewis Capaldi",2019,11,8327,9.02725852623582,112,45,60,63,0,6,9,"Major",19,0
+"593","Sky","Playboi Carti",2020,12,3297,8.10076824307173,140,79,91,26,0,21,13,"Major",56,0
+"594","Rolling in the Deep","Adele",2010,11,35684,10.4824576880337,105,73,76,13,0,3,5,"Major",52,0
+"595","Sobrio","Maluma",2021,7,3506,8.16223106548118,178,76,77,14,0,22,15,"Major",63,0
+"596","Peru","Ed Sheeran, Fireboy DML",2021,12,2999,8.00603417874901,108,96,42,57,0,9,8,"Minor",71,1
+"597","favorite crime","Olivia Rodrigo",2021,5,3681,8.21093973337902,173,40,29,86,0,4,34,"Major",19,0
+"598","Thunder","Prezioso, Gabry Ponte, LUM!X",2021,5,4846,8.48590890137647,101,67,90,3,0,6,34,"Major",40,0
+"599","The Business","Tiï¿½ï¿",2020,1,14311,9.56878375131088,120,80,62,41,2,23,11,"Minor",24,0
+"600","positions","Ariana Grande",2020,10,8207,9.01274272762971,144,73,80,44,0,12,9,"Major",66,0
+"601","I WANNA BE YOUR SLAVE","Mï¿½ï¿½ne",2021,3,4873,8.49146504284351,133,75,61,0,0,4,18,"Major",96,0
+"602","Vai Lï¿½ï¿½ Em Casa ","Marï¿½ï¿½lia Mendonï¿½ï¿½a, George Henrique &",2021,10,772,6.64898455002478,158,46,83,53,0,28,97,"Minor",62,0
+"603","The Feels","TWICE",2021,10,1150,7.0475172213573,120,81,90,9,0,7,8,"Major",92,0
+"604","HEARTBREAK ANNIVERSARY","Giveon",2020,2,5398,8.59378379357795,129,61,46,56,0,5,13,"Major",59,0
+"605","No Lie","Sean Paul, Dua Lipa",2016,11,7370,8.90517298518338,102,74,89,5,0,13,26,"Major",45,1
+"606","OUT OUT (feat. Charli XCX & Saweetie)","Charli XCX, Jax Jones, Joel Corry, Saweetie",2021,8,6890,8.8378263640077,124,79,84,2,0,5,5,"Minor",79,0
+"607","Pope Is a Rockstar","SALES",2016,4,1966,7.58375630070711,90,73,45,85,24,3,11,"Minor",31,0
+"608","2055","Sleepy hallow",2021,4,2226,7.70796153183549,161,78,52,46,0,31,12,"Minor",65,0
+"609","Bored","Billie Eilish",2017,3,4204,8.34379173199684,120,60,33,90,0,5,8,"Major",11,1
+"610","Happier Than Ever - Edit","Billie Eilish",2021,7,1959,7.58018941794454,81,45,57,7,0,3,23,"Major",12,0
+"611","Astronaut In The Ocean","Masked Wolf",2019,1,7191,8.88058552310249,150,78,70,18,0,9,15,"Minor",47,0
+"612","Ley Seca","Anuel Aa, Jhay Cortez",2021,9,2012,7.60688453121963,105,76,84,10,0,10,13,"Major",58,0
+"613","Every Summertime","NIKI",2021,8,1211,7.09920174355309,79,63,67,38,0,4,6,"Major",76,0
+"614","Talking To The Moon","Bruno Mars",2010,10,7109,8.86911686592948,146,52,61,51,0,3,11,"Minor",7,0
+"615","you broke me first","Tate McRae",2020,4,6638,8.80056599227992,124,64,37,79,0,5,9,"Major",8,0
+"616","The Nights","Avicii",2014,1,17354,9.76157830635344,126,53,85,2,0,4,24,"Major",66,0
+"617","Take My Breath","The Weeknd",2021,8,6392,8.76280248744611,121,75,74,2,0,5,11,"Major",53,0
+"618","Way 2 Sexy (with Future & Young Thug)","Drake, Future, Young Thug",2021,9,5481,8.60904284504612,136,80,60,0,0,14,32,"Minor",33,0
+"619","Cï¿½ï¿½","Rauw Alejandro",2021,6,2636,7.8770178956224,102,77,63,58,0,5,11,"Minor",26,0
+"620","Enemy - from the series Arcane League of Legends","Imagine Dragons, League of Legends, Arcane",2021,10,824,6.71417052990947,77,73,74,23,0,23,41,"Major",54,1
+"621","Dance Monkey","Tones and I",2019,5,24529,10.1076113700131,98,82,59,69,0,10,18,"Minor",54,0
+"622","Lucid Dreams","Juice WRLD",2017,6,14749,9.5989305628595,84,44,48,38,0,24,33,"Minor",22,0
+"623","Quï¿½ï¿½ Mï¿½ï¿","J Balvin, Maria Becerra",2021,1,8087,8.99801311309582,102,89,82,3,0,11,17,"Major",77,0
+"624","All of Me","John Legend",2013,8,27221,10.2117440132235,120,42,26,92,0,3,13,"Major",33,0
+"625","Smells Like Teen Spirit - Remastered 2021","Nirvana",1991,9,49991,10.8195982682083,117,52,91,0,0,7,11,"Major",73,0
+"626","Arcade","Duncan Laurence",2019,3,6646,8.80177044891454,72,45,33,82,0,4,14,"Minor",27,0
+"627","Fair Trade (with Travis Scott)","Drake, Travis Scott",2021,9,5403,8.59470963384407,168,67,47,5,0,26,22,"Major",29,0
+"628","Bar","Tini, L-Gante",2021,11,755,6.62671774924902,94,52,69,13,0,8,33,"Major",68,0
+"629","The Rumbling (TV Size)","SiM",2022,1,254,5.53733426701854,145,41,88,0,0,5,26,"Major",65,0
+"630","family ties (with Kendrick Lamar)","Kendrick Lamar, Baby Keem",2021,8,6308,8.74957394808293,134,71,61,1,0,33,23,"Major",14,0
+"631","Mr. Brightside","The Killers",2003,9,51979,10.8585950698419,148,35,93,0,0,8,10,"Major",24,0
+"632","Blessed-Cursed","ENHYPEN",2022,1,246,5.50533153593236,127,60,89,9,0,6,60,"Minor",40,0
+"633","AM Remix","J Balvin, Nio Garcia, Bad Bunny",2021,6,6556,8.78813593986372,172,74,66,11,0,16,8,"Minor",79,0
+"634","Streets","Doja Cat",2019,11,5728,8.65312170864048,90,75,46,21,4,8,34,"Major",19,0
+"635","Shallow","Lady Gaga, Bradley Cooper",2018,9,16636,9.7193243008628,96,57,40,38,0,3,26,"Major",30,1
+"636","Polaroid Love","ENHYPEN",2022,1,461,6.13339804299665,138,74,67,46,0,4,36,"Minor",65,1
+"637","Leave Before You Love Me (with Jonas Brothers)","Marshmello, Jonas Brothers",2021,4,4893,8.49556089128912,120,72,72,0,0,4,13,"Major",67,1
+"638","Permission to Dance","BTS",2021,7,1801,7.49609734517596,125,70,74,1,0,4,34,"Major",65,0
+"639","Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit","Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",2021,1,12043,9.39623885726048,123,82,86,1,0,13,30,"Major",80,0
+"640","RAPSTAR","Polo G",2021,4,4731,8.46189187563115,81,79,54,41,0,24,13,"Major",44,0
+"641","'Till I Collapse","Eminem, Nate Dogg",2002,5,22923,10.0398960523157,171,55,85,7,0,20,8,"Major",10,0
+"642","Memories","Maroon 5",2019,9,9974,9.20773698610607,91,77,32,84,0,5,8,"Major",60,0
+"643","Se Le Ve","Arcangel, De La Ghetto, Justin Quiles, Lenny Tavï¿½ï¿½rez, Sech, Dalex, Dimelo Flow, Rich Music",2021,8,1560,7.35244110024358,84,56,76,10,0,11,14,"Minor",61,1
+"644","25k jacket (feat. Lil Baby)","Gunna, Lil Baby",2022,1,620,6.42971947803914,115,90,54,16,0,28,13,"Minor",74,0
+"645","When Iï¿½ï¿½ï¿½m Gone (with Katy ","Katy Perry, Alesso",2021,12,3270,8.0925452638913,125,69,89,4,0,3,49,"Major",70,0
+"646","Esqueï¿½ï¿½a-Me Se For C","Marï¿½ï¿½lia Mendonï¿½ï¿½a, Maiara &",2021,10,580,6.36302810354046,122,80,69,28,0,7,13,"Minor",62,0
+"647","Miï¿½ï¿½n","Tini, Maria Becerra",2021,4,3406,8.13329386122263,92,85,54,16,0,7,29,"Major",92,0
+"648","Sï¿½ï¿½","Anuel Aa, Myke Towers, Jhay Cortez",2021,11,903,6.80572255341699,90,63,75,17,0,8,11,"Minor",75,0
+"649","MAMIII","Karol G, Becky G",2022,2,6809,8.82600054548297,94,84,70,9,0,8,14,"Minor",90,0
+"650","Still D.R.E.","Dr. Dre, Snoop Dogg",1999,1,33966,10.4331153032647,93,81,78,18,0,24,6,"Major",53,0
+"651","Stay Alive (Prod. SUGA of BTS)","Jung Kook",2022,2,590,6.38012253689976,130,51,76,30,0,7,10,"Minor",50,0
+"652","Boyfriend","Dove Cameron",2022,2,3766,8.2337687092171,180,35,61,23,0,6,19,"Minor",23,1
+"653","The Joker And The Queen (feat. Taylor Swift)","Ed Sheeran, Taylor Swift",2022,2,1430,7.26542972325395,134,53,31,92,0,3,28,"Major",31,0
+"654","The Next Episode","Dr. Dre, Snoop Dogg",1999,1,31762,10.3660258856706,95,92,89,3,0,25,8,"Minor",31,0
+"655","Light Switch","Charlie Puth",2022,1,4049,8.30622521603216,184,69,63,11,0,31,9,"Major",91,0
+"656","City of Gods","Kanye West, Alicia Keys, Fivio Foreign",2022,2,2096,7.64778604544093,147,47,80,10,0,38,32,"Minor",50,0
+"657","Brividi","Mahmood, Blanco",2022,2,1175,7.06902342657826,123,52,60,40,0,3,26,"Major",44,1
+"658","Lost","Frank Ocean",2012,1,29499,10.2921116434483,123,91,61,3,0,22,17,"Minor",49,0
+"659","In Da Club","50 Cent",2002,1,30427,10.3230856511102,90,90,71,26,0,37,7,"Minor",79,0
+"660","she's all i wanna be","Tate McRae",2022,2,2711,7.90507284949867,160,61,64,1,0,4,12,"Minor",65,0
+"661","Ginseng Strip 2002","Yung Lean",2013,8,4310,8.36869318309779,115,60,71,8,0,4,48,"Major",37,0
+"662","All For Us - from the HBO Original Series Euphoria","Labrinth, Zendaya",2019,8,5342,8.58335539366991,141,37,67,2,0,9,34,"Major",17,0
+"663","Notion","The Rare Occasions",2016,8,2393,7.78030308790837,160,31,88,7,0,8,8,"Major",30,0
+"664","Formula","Labrinth",2019,10,3444,8.14438886554762,145,57,66,4,6,4,15,"Major",23,0
+"665","Mount Everest","Labrinth",2019,6,5443,8.6020856584342,89,46,43,23,8,22,8,"Minor",43,0
+"666","Excuses","Intense, AP Dhillon, Gurinder Gill",2020,7,272,5.605802066296,95,84,72,8,0,8,15,"Minor",49,0
+"667","Cigarettes","Juice WRLD",2021,12,975,6.88243747099785,160,60,62,3,0,4,38,"Major",47,0
+"668","Cayï¿½ï¿½ La Noche (feat. Cruz Cafunï¿½ï¿½, Abhir Hathi, Bejo, EL IMA)","Quevedo, La Pantera, Juseph, Cruz Cafunï¿½ï¿½, Bï¿½ï¿½jo, Abhir Hathi",2022,1,1034,6.94119005506837,174,67,75,44,0,30,7,"Minor",74,0
+"669","California Love - Original Version (Explicit)","Dr. Dre, 2Pac, Roger",1995,12,18773,9.84017494632436,92,77,84,3,0,4,38,"Major",76,1
+"670","Forgot About Dre","Eminem, Dr. Dre",1999,1,19067,9.85571437106444,134,93,74,9,0,8,17,"Major",61,0
+"671","Down Under (feat. Colin Hay)","Luude, Colin Hay",2021,11,3541,8.1721644521119,172,31,86,1,0,17,28,"Minor",4,0
+"672","Mujeriego","Ryan Castro",2021,12,1492,7.30787278076371,80,76,62,6,0,13,8,"Major",92,0
+"673","HUMBLE.","Kendrick Lamar",2017,3,33206,10.4104858614677,150,91,60,0,0,12,9,"Minor",42,0
+"674","Stan","Eminem, Dido",1999,11,17115,9.74771055096429,80,78,74,4,0,21,45,"Minor",53,0
+"675","Contection","GODZZ__-, Zakaria",2020,1,6955,8.84721610435754,166,81,75,14,0,34,29,"Minor",83,0
+"676","Swim","Chase Atlantic",2017,10,2742,7.91644286012226,120,67,54,27,0,4,8,"Major",8,0
+"677","A Tu Merced","Bad Bunny",2020,2,4214,8.34616759436413,92,86,79,17,0,6,11,"Major",89,0
+"678","Numb Little Bug","Em Beihold",2022,1,2026,7.61381868480863,85,74,52,30,0,9,26,"Minor",61,0
+"679","212","Mainstreet, Chefin",2022,1,352,5.8636311755981,154,79,52,66,0,7,9,"Minor",86,0
+"680","Problemï¿½","Alvaro Diaz, Rauw Alejandro",2021,10,1517,7.32448997934853,92,73,74,28,0,6,14,"Minor",37,0
+"681","Bussin","Nicki Minaj, Lil Baby",2022,2,847,6.74170069465205,140,89,70,6,0,5,13,"Major",75,0
+"682","Worst Day","Future",2022,2,910,6.8134445995109,89,65,60,11,0,40,10,"Major",60,0
+"683","Malvada","Zï¿½ï¿½ Fe",2022,1,601,6.39859493453521,135,89,86,16,0,5,8,"Minor",89,0
+"684","Hrs and Hrs","Muni Long",2021,11,1800,7.49554194388426,140,51,53,60,0,18,11,"Minor",66,0
+"685","Alien Blues","Vundabar",2015,7,1930,7.56527528189893,82,47,76,8,91,3,9,"Major",44,0
+"686","Thinking Out Loud","Ed Sheeran",2014,1,33032,10.4052320675659,79,78,45,47,0,3,18,"Major",58,0
+"687","Still Don't Know My Name","Labrinth",2019,10,6332,8.7533714210009,88,31,63,47,27,12,21,"Major",31,0
+"688","Christmas Tree","V",2021,12,509,6.23244801655052,139,44,38,70,0,4,12,"Major",18,0
+"689","Mal Feito - Ao Vivo","Marï¿½ï¿½lia Mendonï¿½ï¿½a, Hugo & G",2022,1,971,6.87832646829133,124,73,83,55,0,7,90,"Minor",68,0
+"690","When I R.I.P.","Labrinth",2019,10,2578,7.85476918349913,80,39,55,73,0,21,9,"Minor",45,0
+"691","Do We Have A Problem?","Nicki Minaj, Lil Baby",2022,2,1064,6.96979066990159,120,84,51,47,0,40,12,"Minor",54,0
+"692","Forever","Labrinth",2019,10,3618,8.19367666595524,80,56,46,92,72,3,11,"Minor",19,0
+"693","Gospel (with Eminem)","Eminem, Dr. Dre",2022,2,1040,6.94697599213542,117,92,86,11,0,24,24,"Major",62,0
+"694","Seï¿½ï¿½o","Shawn Mendes, Camila Cabello",2019,6,15010,9.61647192462751,117,76,52,4,0,3,8,"Minor",77,0
+"695","NEW MAGIC WAND","Tyler, The Creator",2019,5,4708,8.45701846838017,140,62,73,10,0,11,67,"Minor",46,0
+"696","Adore You","Harry Styles",2019,12,13454,9.50703173858555,99,68,77,2,0,5,10,"Major",57,0
+"697","La Santa","Daddy Yankee, Bad Bunny",2020,2,4890,8.49494758246892,93,74,87,3,0,5,8,"Major",59,0
+"698","Something In The Way - Remastered 2021","Nirvana",1991,9,9514,9.16051967699223,106,44,20,74,42,3,11,"Major",8,0
+"699","Sweetest Pie","Dua Lipa, Megan Thee Stallion",2022,3,3501,8.16080392095467,124,81,63,17,0,22,10,"Major",68,1
+"700","Bam Bam (feat. Ed Sheeran)","Camila Cabello, Ed Sheeran",2022,3,6111,8.71784570489492,95,76,70,18,0,4,33,"Major",96,0
+"701","Una Noche en Medellï¿½","Cris Mj",2022,1,5415,8.59692815943509,96,87,53,10,0,8,5,"Minor",82,0
+"702","Envolver","Anitta",2021,11,4673,8.44955654270043,92,81,73,15,0,8,9,"Minor",40,0
+"703","Starlight","Dave",2022,3,1856,7.52617891334615,124,95,37,35,0,28,10,"Major",36,1
+"704","Hati-Hati di Jalan","Tulus",2022,3,200,5.29831736654804,72,64,44,70,9,4,12,"Major",76,0
+"705","I'm Tired - From ""Euphoria"" An Original HBO Series","Labrinth",2022,2,1888,7.54327334670545,71,28,20,19,0,3,30,"Minor",26,0
+"706","DANï¿½ï¿½A","Mc Pedrinho, Pedro Sampaio",2022,2,911,6.81454289725996,135,78,57,4,0,8,10,"Minor",55,0
+"707","Yo Voy (feat. Daddy Yankee)","Zion & Lennox",2004,5,2954,7.99091546309133,95,81,70,4,0,24,5,"Major",56,0
+"708","Residente: Bzrp Music Sessions, Vol. 49","Residente, Bizarrap",2022,3,461,6.13339804299665,71,59,74,56,0,40,11,"Minor",70,0
+"709","Jordan","Ryan Castro",2021,4,2844,7.95296679092313,180,80,68,6,0,37,10,"Minor",71,0
+"710","Nail Tech","Jack Harlow",2022,2,2939,7.98582466641892,150,65,58,0,0,9,12,"Minor",11,0
+"711","Chale","Eden Muï¿½ï",2022,2,695,6.54391184556479,189,55,44,40,0,4,7,"Major",86,0
+"712","DARARI","Treasure",2022,2,328,5.79301360838414,85,72,64,49,0,4,7,"Major",55,0
+"713","Ya No Somos Ni Seremos","Christian Nodal",2022,2,866,6.76388490856244,140,59,45,44,0,3,34,"Major",73,1
+"714","Thinking with My Dick","Kevin Gates, Juicy J",2013,7,1550,7.34601020991329,81,77,70,6,0,20,17,"Major",68,0
+"715","Freaky Deaky","Tyga, Doja Cat",2022,2,1729,7.45529848568329,104,80,65,2,0,4,9,"Minor",24,0
+"716","this is what falling in love feels like","JVKE",2021,9,2005,7.60339933974067,129,42,44,62,0,6,8,"Major",33,0
+"717","La Zona","Bad Bunny",2020,2,1188,7.08002649992259,94,76,80,20,0,4,25,"Minor",81,0
+"718","Bohemian Rhapsody - Remastered 2011","Queen",1975,10,40112,10.5994308203981,71,41,40,27,0,5,30,"Minor",23,0
+"719","Hope","XXXTENTACION",2018,3,3659,8.20494516501921,146,59,46,66,0,6,15,"Minor",23,0
+"720","Levitating","Dua Lipa",2020,3,9833,9.19349935478016,103,69,88,5,0,8,29,"Minor",90,0
+"721","Wake Me Up - Radio Edit","Avicii",2013,1,50887,10.8373627671673,124,53,78,0,0,5,16,"Major",66,0
+"722","jealousy, jealousy","Olivia Rodrigo",2021,5,3257,8.08856180527623,164,70,58,24,0,13,7,"Minor",71,0
+"723","Monï¿½ï¿½y so","YEAT",2021,9,1473,7.29505641646263,138,69,57,12,0,9,10,"Major",35,0
+"724","Demasiadas Mujeres","C. Tangana",2020,10,2226,7.70796153183549,126,67,46,13,0,39,10,"Minor",37,0
+"725","Something Just Like This","The Chainsmokers, Coldplay",2017,2,23375,10.0594223541569,103,61,65,3,0,4,17,"Minor",47,0
+"726","Closer","The Chainsmokers, Halsey",2016,5,28032,10.2411019937361,95,75,52,41,0,3,11,"Major",64,0
+"727","O.O","NMIXX",2022,2,290,5.66988092298052,200,39,77,4,0,29,6,"Minor",28,0
+"728","Somebody That I Used To Know","Gotye, Kimbra",2011,1,42798,10.6642466515061,129,86,52,54,0,4,10,"Major",75,0
+"729","Tom's Diner","AnnenMayKantereit, Giant Rooks",2019,6,2605,7.86518795418747,98,68,43,38,0,14,36,"Minor",33,0
+"730","First Class","Jack Harlow",2022,4,8737,9.07532216029809,107,91,56,3,0,10,11,"Major",32,0
+"731","Plan A","Paulo Londra",2022,3,1105,7.00760061395185,174,58,83,5,0,4,7,"Major",56,0
+"732","Fuera del mercado","Danny Ocean",2022,2,2499,7.82364593083495,92,45,67,32,0,14,13,"Major",27,0
+"733","X ï¿½ï¿½LTIMA","Daddy Yankee, Bad Bunny",2022,3,2697,7.89989532313973,90,81,83,9,0,5,11,"Major",59,1
+"734","When You're Gone","Shawn Mendes",2022,3,2092,7.64587582518481,147,60,69,2,0,4,58,"Major",58,0
+"735","In My Head","Lil Tjay",2022,4,1185,7.07749805356923,143,68,55,16,0,12,10,"Major",41,0
+"736","Wait a Minute!","Willow",2015,1,11985,9.39141114686849,101,76,71,3,0,3,10,"Minor",63,0
+"737","LOVE DIVE","IVE",2022,4,753,6.62406522779989,118,70,71,0,0,4,33,"Minor",54,0
+"738","Pantysito","Feid, Alejo, Robi",2022,3,2995,8.00469951054955,98,83,74,14,0,6,16,"Minor",63,1
+"739","Chance","Paulo Londra",2022,4,225,5.41610040220442,138,72,46,24,0,6,9,"Minor",22,0
+"740","Cool for the Summer","Demi Lovato",2015,1,9243,9.13162178726478,114,59,62,1,0,4,8,"Minor",30,0
+"741","psychofreak (feat. WILLOW)","Camila Cabello, Willow",2022,4,918,6.82219739062049,180,63,64,34,0,8,9,"Minor",45,1
+"742","Angel Baby","Troye Sivan",2021,9,1959,7.58018941794454,145,56,57,1,0,3,13,"Major",41,0
+"743","Vampiro","Matuï¿½ï¿½, Wiu, ",2022,1,540,6.29156913955832,115,78,64,1,0,4,7,"Minor",63,0
+"744","Si Quieren Frontear","De La Ghetto, Duki, Quevedo",2022,3,859,6.75576892198425,82,79,84,13,0,23,21,"Major",48,0
+"745","Right On","Lil Baby",2022,4,1116,7.01750614294126,166,70,61,2,0,34,10,"Major",22,0
+"746","Me Arrepentï¿","Ak4:20, Cris Mj, Pailita",2022,3,273,5.60947179518496,92,86,79,29,0,16,60,"Major",91,0
+"747","That's Hilarious","Charlie Puth",2022,4,686,6.53087762772588,108,71,44,74,0,6,11,"Major",55,0
+"748","Soy El Unico","Yahritza Y Su Esencia",2022,3,226,5.42053499927229,84,71,45,45,0,3,11,"Minor",63,0
+"749","RUMBATï¿½","Daddy Yankee",2022,3,1264,7.1420365747068,95,69,91,6,0,4,35,"Minor",90,0
+"750","sentaDONA (Remix) s2","Luï¿½ï¿½sa Sonza, MC Frog, Dj Gabriel do Borel, Davi K",2022,3,870,6.76849321164863,135,93,45,25,0,27,13,"Minor",77,0
+"751","Falling","Harry Styles",2019,12,7556,8.9300972286214,110,57,27,84,0,3,9,"Major",6,0
+"752","Sigue","Ed Sheeran, J Balvin",1996,11,1370,7.22256601882217,88,89,64,5,0,7,19,"Major",59,1
+"753","Fim de Semana no Rio","teto",2022,3,315,5.75257263882563,119,87,50,12,0,10,10,"Minor",28,0
+"754","MANIAC","Stray Kids",2022,3,651,6.47850964220857,120,58,80,15,0,41,7,"Major",71,0
+"755","There's Nothing Holdin' Me Back","Shawn Mendes",2016,9,12382,9.42399908407918,122,86,80,36,0,6,9,"Major",97,0
+"756","IDGAF (with blackbear)","Blackbear, BoyWithUke",2022,3,625,6.4377516497364,98,78,75,41,0,8,27,"Major",83,0
+"757","Golden","Harry Styles",2019,12,8429,9.03943341999748,140,45,84,21,0,6,13,"Minor",25,0
+"758","Get Lucky - Radio Edit","Pharrell Williams, Nile Rodgers, Daft Punk",2013,1,52898,10.8761208099483,116,79,81,4,0,4,10,"Minor",87,0
+"759","Ain't Shit","Doja Cat",2021,6,3436,8.14206328310415,124,86,49,51,0,21,35,"Major",62,0
+"760","Nobody Like U - From ""Turning Red""","Jordan Fisher, Josh Levi, Finneas O'Connell, 4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red), Topher Ngo, Grayson Vill",2022,2,918,6.82219739062049,105,91,72,13,0,15,9,"Minor",73,0
+"761","Still Life","BIGBANG",2022,4,181,5.19849703126583,118,68,58,44,0,3,6,"Major",24,0
+"762","Photograph","Ed Sheeran",2014,6,18778,9.84044125081849,108,61,38,61,0,5,10,"Major",20,0
+"763","Love Yourself","Justin Bieber",2015,11,22730,10.0314409168466,100,61,38,84,0,44,28,"Major",53,0
+"764","N95","Kendrick Lamar",2022,5,5542,8.62011072542292,140,81,66,38,0,14,12,"Minor",39,0
+"765","About Damn Time","Lizzo",2022,4,9021,9.10731047165664,109,84,74,10,0,7,34,"Minor",72,0
+"766","Die Hard","Kendrick Lamar, Blxst, Amanda Reifer",2022,5,4627,8.439663988907,101,78,74,36,0,27,17,"Minor",40,0
+"767","Despuï¿½ï¿½s de la P","Bad Bunny",2022,5,2229,7.70930833338587,78,56,90,36,0,31,18,"Major",61,0
+"768","Un Ratito","Bad Bunny",2022,5,1112,7.01391547481053,93,79,55,31,0,5,12,"Minor",22,0
+"769","United In Grief","Kendrick Lamar",2022,5,2575,7.85360481309784,87,52,83,24,0,43,17,"Major",32,0
+"770","Father Time (feat. Sampha)","Kendrick Lamar, Sampha",2022,5,3107,8.04141290939305,153,55,78,19,0,35,11,"Minor",50,0
+"771","Yo No Soy Celoso","Bad Bunny",2022,5,1179,7.07242190053737,142,87,59,28,0,5,17,"Major",93,0
+"772","Rich Spirit","Kendrick Lamar",2022,5,3486,8.15651022607997,96,85,43,39,0,21,12,"Minor",41,0
+"773","Cooped Up (with Roddy Ricch)","Post Malone, Roddy Ricch",2022,5,2942,7.98684490116138,125,50,78,4,0,33,11,"Major",39,0
+"774","Me Fui de Vacaciones","Bad Bunny",2022,5,1443,7.27447955877387,85,71,65,23,0,5,9,"Major",43,0
+"775","Silent Hill","Kendrick Lamar, Kodak Black",2022,5,3028,8.01565761455734,140,92,57,46,0,9,14,"Minor",78,0
+"776","La Corriente","Tony Dize, Bad Bunny",2022,5,1796,7.49331724886215,196,66,79,23,0,20,22,"Minor",58,0
+"777","Count Me Out","Kendrick Lamar",2022,5,2729,7.91169052070834,134,78,43,69,0,9,14,"Major",51,1
+"778","Andrea","Buscabulla, Bad Bunny",2022,5,1195,7.08590146436561,103,80,62,76,0,38,10,"Minor",45,0
+"779","Dos Mil 16","Bad Bunny",2022,5,892,6.79346613258001,130,82,67,12,0,5,13,"Major",50,0
+"780","We Cry Together","Kendrick Lamar, Taylour Paige",2022,5,1635,7.39939808333135,108,65,69,31,0,36,8,"Major",52,0
+"781","Savior","Kendrick Lamar, Sam Dew, Baby Keem",2022,5,2291,7.7367436824535,123,61,71,53,0,46,32,"Major",66,0
+"782","Un Coco","Bad Bunny",2022,5,1029,6.93634273583405,152,84,69,21,0,6,18,"Major",74,0
+"783","Otro Atardecer","Bad Bunny, The Marï¿½ï",2022,5,1681,7.42714413340862,108,78,60,59,0,4,7,"Major",55,0
+"784","Worldwide Steppers","Kendrick Lamar",2022,5,1480,7.29979736675816,72,56,47,76,0,36,8,"Minor",56,0
+"785","Aguacero","Bad Bunny",2022,5,829,6.7202201551353,121,86,65,42,0,7,35,"Minor",67,0
+"786","Purple Hearts","Kendrick Lamar, Ghostface Killah, Summer Walker",2022,5,2308,7.74413662762799,138,57,82,19,0,29,15,"Minor",71,0
+"787","Un Verano Sin Ti","Bad Bunny",2022,5,1004,6.91174730025167,188,50,50,69,0,6,12,"Minor",41,0
+"788","ULTRA SOLO","Polima WestCoast, Pailita",2022,2,1367,7.22037383672395,110,80,85,23,0,21,11,"Major",26,0
+"789","Ensï¿½ï¿½ï¿½ï¿½ame ","Bad Bunny",2022,5,1112,7.01391547481053,105,81,79,19,0,8,47,"Major",77,0
+"790","El Apagï¿½","Bad Bunny",2022,5,1209,7.09754885061479,118,63,70,5,0,31,9,"Major",60,0
+"791","Callaita","Bad Bunny, Tainy",2019,5,9539,9.16314393714521,176,61,62,60,0,31,24,"Major",24,0
+"792","Dua Lipa","Jack Harlow",2022,5,1992,7.59689443814454,158,83,65,0,10,8,11,"Major",41,0
+"793","Agosto","Bad Bunny",2022,5,897,6.7990558620588,115,85,58,9,0,12,49,"Minor",72,0
+"794","House Of Memories","Panic! At The Disco",2016,1,2948,7.98888225330923,110,51,82,0,0,3,5,"Minor",48,0
+"795","Mr. Morale","Kendrick Lamar, Tanna Leone",2022,5,1860,7.52833176670725,174,73,54,30,0,32,34,"Major",26,0
+"796","That That (prod. & feat. SUGA of BTS)","PSY, Suga",2022,4,802,6.68710860786651,130,91,96,3,0,9,3,"Major",91,0
+"797","In The Stars","Benson Boone",2022,4,2224,7.70706265537047,78,36,54,34,0,5,14,"Major",30,0
+"798","Rich - Interlude","Kendrick Lamar",2022,5,1103,7.0057890192535,104,44,42,88,0,9,9,"Major",74,1
+"799","SUPERMODEL","Mï¿½ï¿½ne",2022,5,2265,7.72533003791713,121,64,88,0,0,6,12,"Major",80,1
+"800","Stefania (Kalush Orchestra)","KALUSH",2022,3,555,6.31896811374643,105,83,82,14,0,4,12,"Major",32,0
+"801","Thousand Miles","The Kid Laroi",2022,4,2050,7.62559507213245,81,38,66,9,0,8,9,"Major",20,1
+"802","Crown","Kendrick Lamar",2022,5,1493,7.30854279753919,170,37,24,80,0,4,11,"Minor",14,0
+"803","Auntie Diaries","Kendrick Lamar",2022,5,1545,7.34277918933185,78,43,38,76,1,38,48,"Major",60,1
+"804","PUFFIN ON ZOOTIEZ","Future",2022,4,2350,7.7621706071382,125,88,66,6,0,31,13,"Major",28,0
+"805","Mirror","Kendrick Lamar",2022,5,1929,7.56475701290573,92,66,65,23,0,7,8,"Minor",29,0
+"806","Beautiful Girl","Luciano",2022,4,710,6.56526497003536,140,84,42,31,0,9,9,"Minor",61,0
+"807","Paulo Londra: Bzrp Music Sessions, Vol. 23","Bizarrap, Paulo Londra",2022,4,928,6.8330317327862,96,61,90,25,0,9,10,"Major",32,0
+"808","Savior - Interlude","Kendrick Lamar",2022,5,1194,7.08506429395255,118,66,43,84,0,19,19,"Minor",83,0
+"809","Pasoori","Shae Gill, Ali Sethi",2022,2,349,5.85507192220243,92,71,60,7,0,4,6,"Minor",67,0
+"810","Mother I Sober (feat. Beth Gibbons of Portishead)","Kendrick Lamar, Beth Gibbons",2022,5,1890,7.54433210805369,140,49,37,87,0,35,11,"Minor",50,0
+"811","TUS Lï¿½ï¿½GR","Sech, Mora",2022,4,1308,7.17625453201714,174,68,71,18,0,25,11,"Major",45,0
+"812","Where Did You Go?","MNEK, Jax Jones",2022,1,4531,8.41869794466714,127,77,78,19,0,4,29,"Major",53,0
+"813","I Tried to Tell Y'all","Ugly Dray, Tesla Jnr",2022,5,1657,7.41276401742656,96,71,52,62,0,36,11,"Major",37,0
+"814","Honest (feat. Don Toliver)","Justin Bieber, Don Toliver",2022,4,1351,7.2086003379602,150,82,66,13,0,6,11,"Minor",82,0
+"815","ZOOM","Jessi",2022,4,608,6.41017488196617,100,87,60,1,0,16,13,"Major",46,0
+"816","SloMo","Chanel",2021,12,1211,7.09920174355309,105,73,81,13,0,6,9,"Minor",59,0
+"817","FEARLESS","LE SSERAFIM",2022,5,629,6.44413125670044,104,86,62,5,0,14,13,"Major",43,1
+"818","10 Things I Hate About You","Leah Kate",2022,3,1301,7.1708884785125,154,54,79,1,0,5,17,"Major",45,0
+"819","SPACE MAN","Sam Ryder",2022,2,1329,7.19218205871325,80,47,83,18,0,5,10,"Major",33,0
+"820","With you","HA SUNG WOON, Jimin",2022,4,343,5.83773044716594,150,53,43,64,0,3,13,"Major",14,0
+"821","Iris","The Goo Goo Dolls",1998,3,13101,9.48044384215367,156,32,72,0,0,4,9,"Minor",49,0
+"822","The Heart Part 5","Kendrick Lamar",2022,5,2939,7.98582466641892,98,76,81,18,0,34,6,"Minor",79,0
+"823","San Lucas","Kevin Kaarl",2019,11,407,6.00881318544259,92,58,36,86,0,3,9,"Major",27,1
+"824","This Love (Taylorï¿½ï¿½ï¿½s Ve","Taylor Swift",2022,5,1492,7.30787278076371,144,47,50,32,0,4,7,"Major",7,0
+"825","Good Looking","Suki Waterhouse",2017,10,2264,7.72488843932307,150,37,56,8,0,3,13,"Major",27,0
+"826","Flowers","Lauren Spencer Smith",2021,8,801,6.68586094706836,138,70,44,84,0,39,9,"Major",31,0
+"827","Yet To Come","BTS",2022,6,829,6.7202201551353,172,56,89,4,0,19,33,"Major",68,0
+"828","Run BTS","BTS",2022,6,736,6.60123011872888,77,72,82,2,0,17,4,"Major",70,0
+"829","Music For a Sushi Restaurant","Harry Styles",2022,5,4449,8.40043463080604,107,72,72,26,6,4,11,"Major",36,0
+"830","Matilda","Harry Styles",2022,5,3218,8.07651532755233,114,51,29,90,0,4,10,"Major",39,0
+"831","For Youth","BTS",2022,6,327,5.78996017089725,117,63,51,43,0,4,25,"Major",29,0
+"832","Daylight","Harry Styles",2022,5,2775,7.92840602618053,146,69,45,48,0,4,18,"Major",63,0
+"833","Vegas (From the Original Motion Picture Soundtrack ELVIS)","Doja Cat",2022,5,4576,8.42858053305963,160,80,60,8,0,26,14,"Minor",74,0
+"834","Cash In Cash Out","Pharrell Williams, Tyler, The Creator, 21 Savage",2022,6,2313,7.74630066223144,120,88,56,1,0,6,8,"Major",15,1
+"835","Potion (with Dua Lipa & Young Thug)","Calvin Harris, Dua Lipa, Young Thug",2022,5,3983,8.28979058318164,100,82,70,16,0,5,8,"Minor",76,0
+"836","Born Singer","BTS",2022,6,279,5.63121178182137,158,60,84,4,0,11,24,"Minor",68,0
+"837","Little Freak","Harry Styles",2022,5,2302,7.74153358928183,142,56,54,72,0,4,10,"Major",40,0
+"838","La Llevo Al Cielo (Ft. ï¿½ï¿½engo F","Nengo Flow, Anuel Aa, Chris Jedi, Chencho Corleone",2022,5,3559,8.17723488551019,170,80,85,11,0,14,17,"Minor",77,0
+"839","True Love","Kanye West, XXXTENTACION",2022,5,2129,7.66340766489348,84,71,86,2,0,25,51,"Minor",39,0
+"840","Satellite","Harry Styles",2022,5,3291,8.09894674894334,139,58,46,14,0,3,9,"Major",30,0
+"841","Pass The Dutchie","Musical Youth",1982,1,5328,8.58073121222023,151,73,67,20,0,5,32,"Major",88,1
+"842","Villano Antillano: Bzrp Music Sessions, Vol. 51","Bizarrap, Villano Antillano",2022,6,1401,7.24494154633701,128,82,75,6,0,6,63,"Minor",42,0
+"843","Love Of My Life","Harry Styles",2022,5,1933,7.56682847920833,118,56,54,67,0,5,6,"Major",20,1
+"844","Grapejuice","Harry Styles",2022,5,1986,7.59387784460512,183,65,72,36,14,3,20,"Major",88,0
+"845","So Good","Halsey",2022,6,1057,6.96318998587024,83,63,62,4,0,4,18,"Minor",29,0
+"846","Belly Dancer","BYOR, Imanbek",2022,2,5115,8.53993267838573,122,85,80,6,0,14,17,"Major",42,0
+"847","Keep Driving","Harry Styles",2022,5,2094,7.64683139143048,165,72,48,32,0,23,18,"Major",90,0
+"848","Cinema","Harry Styles",2022,5,2171,7.68294316987829,106,83,64,35,5,4,9,"Minor",90,0
+"849","Die Young (feat. 347aidan)","Sleepy hallow, 347aidan",2022,5,896,6.79794041297493,77,81,58,83,0,34,11,"Major",68,0
+"850","Only Love Can Hurt Like This","Paloma Faith",2014,1,5148,8.54636356871602,91,57,89,10,0,8,33,"Major",30,0
+"851","Hold My Hand","Lady Gaga",2022,5,2528,7.83518375526675,148,51,63,5,0,3,41,"Major",21,1
+"852","Daydreaming","Harry Styles",2022,5,1900,7.54960916515453,114,71,81,31,2,3,13,"Minor",90,0
+"853","Numb","Marshmello, Khalid",2022,6,3879,8.26333266743997,120,91,77,12,1,5,10,"Minor",63,0
+"854","Nos Comemos (feat. Ozuna)","Ozuna, Tiago pzk",2022,6,896,6.79794041297493,92,83,82,10,0,5,9,"Major",56,0
+"855","Me and Your Mama","Childish Gambino",2016,11,8775,9.07966204833407,118,56,45,1,3,3,7,"Major",25,0
+"856","Crazy What Love Can Do","David Guetta, Ella Henderson, Becky Hill",2022,3,5290,8.57357352485234,123,60,71,3,0,4,16,"Minor",46,0
+"857","SLOW DANCING IN THE DARK","Joji",2018,9,10211,9.23122084955554,89,52,48,54,1,3,19,"Major",28,0
+"858","Antes de Perderte","Duki",2022,6,584,6.36990098282823,110,81,93,49,0,11,12,"Minor",61,0
+"859","Boyfriends","Harry Styles",2022,5,1517,7.32448997934853,118,42,20,94,0,4,11,"Major",32,0
+"860","295","Sidhu Moose Wala",2021,5,246,5.50533153593236,90,68,76,21,0,20,11,"Minor",54,0
+"861","Tak Ingin Usai","Keisya Levronka",2022,5,220,5.39362754635236,130,49,40,82,0,3,11,"Major",14,0
+"862","En El Radio Un Cochinero","Victor Cibrian",2022,5,514,6.24222326545517,154,70,62,47,0,4,10,"Minor",97,0
+"863","Master of Puppets (Remastered)","Metallica",1986,3,6080,8.71275997496021,105,54,83,0,44,4,20,"Minor",59,0
+"864","BREAK MY SOUL","Beyoncï¿",2022,6,9724,9.18235233543601,115,70,88,4,0,8,26,"Minor",87,0
+"865","ULTRA SOLO REMIX","De La Ghetto, Feid, Polima WestCoast, Paloma Mami, Pailita",2022,6,2341,7.75833346749091,110,91,82,8,0,8,6,"Major",59,0
+"866","Massive","Drake",2022,6,5263,8.56845648535378,125,51,68,12,2,6,15,"Minor",5,0
+"867","Betty (Get Money)","Yung Gravy",2022,6,2402,7.78405700263993,102,73,75,0,0,8,34,"Major",62,0
+"868","Ojos Marrones","Lasso",2022,2,795,6.67834211465433,120,81,65,4,0,4,14,"Minor",72,0
+"869","POP!","Nayeon",2022,6,571,6.34738920965601,97,80,86,4,0,5,3,"Major",36,0
+"870","Layla","Schï¿½ï¿½rze, DJ R",2022,3,832,6.72383244082121,140,44,92,0,0,7,44,"Minor",41,0
+"871","MORE","j-hope",2022,7,565,6.33682573114644,97,78,72,1,0,4,11,"Major",31,0
+"872","Sweet Child O' Mine","Guns N' Roses",1987,1,41231,10.6269456795907,125,45,90,9,11,5,10,"Major",67,0
+"873","Last Last","Burna Boy",2022,5,4526,8.41759382619348,88,80,56,13,0,9,8,"Minor",55,0
+"874","SNAP","Rosa Linn",2022,3,1818,7.50549227473742,170,56,64,11,0,7,45,"Major",52,0
+"875","Sticky","Drake",2022,6,2814,7.94236223767433,137,88,49,9,0,14,9,"Minor",8,0
+"876","Hot Shit (feat. Ye & Lil Durk)","Kanye West, Lil Durk, Cardi B",2022,7,1601,7.37838371299671,157,88,69,0,0,23,8,"Major",52,0
+"877","Ai Preto","L7nnon, DJ Biel do Furduncinho, Bianca",2022,6,894,6.79570577517351,130,95,57,54,0,25,10,"Major",83,0
+"878","La Loto","Anitta, Tini, Becky G",2022,7,945,6.85118492749374,90,85,83,10,0,11,8,"Major",80,0
+"879","die first","Nessa Barrett",2022,6,767,6.64248680136726,183,44,67,7,0,13,12,"Minor",44,0
+"880","Afraid To Feel","LF System",2022,5,5898,8.68236858937522,128,58,91,2,0,11,27,"Major",68,0
+"881","Baile no Morro","Mc Vitin Da Igrejinha, MC Tairon, DJ Win",2022,6,685,6.52941883826223,130,71,40,46,0,45,7,"Minor",78,0
+"882","cï¿½ï¿½mo dormi","Rels B",2022,8,1452,7.28069719538474,126,63,43,24,0,23,12,"Major",56,0
+"883","Bad Decisions (with BTS & Snoop Dogg)","Snoop Dogg, BTS, Benny Blanco",2022,8,1456,7.28344822875663,120,77,87,2,0,12,23,"Major",94,0
+"884","STAYING ALIVE (feat. Drake & Lil Baby)","Drake, DJ Khaled, Lil Baby",2022,8,2107,7.65302041380419,130,72,46,7,0,8,28,"Minor",18,0
+"885","Caile","Luar La L",2020,12,1494,7.30921236569276,122,70,76,30,0,45,9,"Major",46,0
+"886","Si Te La Encuentras Por Ahï¿","Feid",2022,8,1379,7.2291138777933,172,74,58,15,0,8,13,"Minor",46,0
+"887","GIVENCHY","Duki",2022,7,625,6.4377516497364,103,61,62,14,0,40,23,"Major",38,0
+"888","ALIEN SUPERSTAR","Beyoncï¿",2022,7,2688,7.89655270164304,122,55,64,0,0,10,17,"Minor",46,0
+"889","Mary On A Cross","Ghost",2019,9,2668,7.88908440703551,130,47,90,0,0,4,10,"Major",56,0
+"890","Attention","NewJeans",2022,8,799,6.68336094576627,105,81,65,24,0,4,8,"Minor",70,0
+"891","THE SHADE","Rex Orange County",2022,3,1189,7.08086789669078,120,90,51,39,0,6,9,"Major",73,0
+"892","Come Back Home - From ""Purple Hearts""","Sofia Carson",2022,7,367,5.90536184805457,145,56,53,24,0,4,12,"Major",43,1
+"893","El Rescate","Grupo Marca Registrada, Junior H",2022,7,527,6.26720054854136,99,79,59,28,0,14,11,"Minor",64,1
+"894","Heartless","Kanye West",2008,1,17504,9.77018470522171,88,79,65,5,0,14,25,"Minor",66,0
+"895","Stay With Me (with Justin Timberlake, Halsey, & Pharrell)","Calvin Harris, Halsey, Pharrell Williams, Justin Timberlake",2022,7,3113,8.04334217044161,126,81,73,28,0,4,29,"Major",90,0
+"896","Siempre Pendientes","Peso Pluma, Luis R Conriquez",2022,8,685,6.52941883826223,136,77,75,33,1,4,13,"Major",71,0
+"897","JGL","Luis R Conriquez, La Adictiva",2022,2,782,6.66185474054531,113,70,59,55,0,12,27,"Major",97,0
+"898","Don't You Worry","David Guetta, Shakira, Black Eyed Peas",2022,6,2442,7.80057265467065,132,82,88,20,0,3,21,"Major",49,0
+"899","Pipoco","Melody, Ana Castela, Dj Chris No Beat",2022,5,1112,7.01391547481053,135,77,74,47,0,8,34,"Major",74,0
+"900","Hold Me Closer","Elton John, Britney Spears",2017,11,4967,8.51057131510735,126,67,77,11,0,11,19,"Major",49,0
+"901","Forget Me","Lewis Capaldi",2022,9,2520,7.83201418050547,102,67,74,30,0,4,36,"Minor",72,0
+"902","After LIKE","IVE",2022,8,767,6.64248680136726,125,68,92,10,0,12,9,"Major",80,0
+"903","Bound 2","Kanye West",2013,1,19806,9.89374020108125,149,37,66,14,0,5,9,"Major",28,0
+"904","B.O.T.A. (Baddest Of Them All) - Edit","Interplanetary Criminal, Eliza Rose",2022,6,5153,8.54733434832822,137,74,89,24,61,5,15,"Major",71,0
+"905","Talk that Talk","TWICE",2022,8,615,6.42162226780652,120,77,91,14,0,12,33,"Minor",78,0
+"906","BILLIE EILISH.","Armani White",2022,1,2537,7.83873755959928,100,90,50,11,0,26,9,"Major",75,0
+"907","Ferxxo 100","Feid",2022,6,1647,7.40671073017764,164,70,57,25,0,7,15,"Minor",58,0
+"908","KU LO SA - A COLORS SHOW","Oxlade",2022,6,2019,7.61035761831284,93,65,66,31,0,7,22,"Minor",79,0
+"909","Prohibidox","Feid",2022,9,1473,7.29505641646263,180,65,80,5,0,25,6,"Minor",52,0
+"910","Static","Steve Lacy",2022,7,1613,7.38585107812521,79,34,31,43,63,7,10,"Major",22,0
+"911","The Scientist","Coldplay",2002,8,30992,10.3414843856468,146,56,44,73,0,2,11,"Major",21,0
+"912","Sparks","Coldplay",2000,7,10826,9.28970592735692,103,37,27,75,5,3,10,"Major",17,0
+"913","Talk","YEAT",2022,9,920,6.82437367004309,140,70,76,8,0,23,54,"Minor",26,0
+"914","XQ Te Pones Asï¿","Yandel, Feid",2022,9,308,5.73009978297357,92,81,70,13,0,7,15,"Major",48,0
+"915","Selfish","PnB Rock",2016,6,2468,7.81116338502528,102,64,60,11,0,4,19,"Minor",4,0
+"916","Sin Seï¿½ï","Ovy On The Drums, Quevedo",2022,7,1097,7.00033446027523,118,82,85,33,1,4,11,"Minor",75,0
+"917","Lady Mi Amor","Feid",2022,9,330,5.79909265446053,93,78,62,6,0,6,15,"Major",75,0
+"918","Poland","Lil Yachty",2022,6,1584,7.36770857237437,150,70,56,14,83,5,11,"Minor",26,0
+"919","THE LONELIEST","Mï¿½ï¿½ne",2022,10,1585,7.36833968631138,130,52,60,0,0,3,8,"Major",24,0
+"920","Bye Bye","Marshmello, Juice WRLD",2022,10,766,6.64118216974059,83,65,53,6,0,4,51,"Minor",24,0
+"921","BABY OTAKU","Fran C, Polima WestCoast, Nickoog Clk, Pablito Pesadilla",2022,8,836,6.7286286130847,102,84,75,5,0,8,6,"Major",43,0
+"922","Nxde","(G)I-DLE",2022,10,430,6.06378520868761,136,73,91,4,0,18,48,"Minor",65,0
+"923","Miss You","Southstar",1982,5,2020,7.61085279039525,145,66,58,17,0,5,19,"Major",24,0
+"924","we fell in love in october","girl in red",2018,11,6858,8.83317113302287,130,57,37,11,18,3,16,"Major",24,1
+"925","2 Be Loved (Am I Ready)","Lizzo",2022,7,3682,8.21121136179302,156,72,77,9,0,11,8,"Major",92,1
+"926","Celestial","Ed Sheeran",2022,9,1639,7.40184157874383,123,57,85,5,0,4,16,"Major",50,0
+"927","Typa Girl","BLACKPINK",2022,9,452,6.11368217983223,132,92,62,7,0,10,63,"Major",53,1
+"928","I Really Want to Stay at Your House","Rosa Walton, Hallie Coggins",2020,12,668,6.50428817353665,125,49,74,0,0,4,9,"Minor",13,0
+"929","California Breeze","Lil Baby",2022,10,991,6.89871453432999,162,74,67,0,0,46,11,"Minor",22,0
+"930","Bamba (feat. Aitch & BIA)","Luciano, Aitch, Bï¿½",2022,9,869,6.76734312526539,138,80,81,14,0,36,13,"Major",82,0
+"931","Casei Com a Putaria","MC Ryan SP, Love Funk, Mc Paiva ZS",2022,7,648,6.47389069635227,161,59,60,12,0,44,5,"Minor",62,0
+"932","Major Distribution","Drake, 21 Savage",2022,11,1545,7.34277918933185,131,91,55,1,0,32,7,"Minor",23,0
+"933","Pussy & Millions (feat. Travis Scott)","Drake, Travis Scott, 21 Savage",2022,11,1930,7.56527528189893,122,75,63,6,0,12,35,"Minor",45,0
+"934","Vigilante Shit","Taylor Swift",2022,10,1948,7.57455848420248,80,80,28,17,0,39,12,"Minor",16,0
+"935","Question...?","Taylor Swift",2022,10,1608,7.38274644973891,109,75,50,20,0,17,30,"Major",11,1
+"936","On BS","Drake, 21 Savage",2022,11,1338,7.19893124068817,158,84,36,2,0,59,39,"Major",33,0
+"937","Mastermind","Taylor Swift",2022,10,1936,7.56837926783652,126,66,35,55,0,14,9,"Major",12,0
+"938","Circo Loco","Drake, 21 Savage",2022,11,1794,7.49220304261874,104,73,61,1,0,7,32,"Major",25,0
+"939","Labyrinth","Taylor Swift",2022,10,1597,7.37588214821501,110,48,31,80,22,4,12,"Major",15,0
+"940","Spin Bout U","Drake, 21 Savage",2022,11,1652,7.40974195408092,130,77,70,1,0,5,16,"Major",20,1
+"941","Sweet Nothing","Taylor Swift",2022,10,1747,7.46565531013406,177,34,16,97,0,5,12,"Major",39,0
+"942","Would've, Could've, Should've","Taylor Swift",2022,10,1715,7.44716835960004,158,48,84,43,0,12,15,"Major",55,1
+"943","Con La Brisa","Ludwig Goransson, Foudeqush",2022,11,486,6.18620862390049,114,62,44,51,33,3,14,"Minor",25,0
+"944","Privileged Rappers","Drake, 21 Savage",2022,11,1007,6.91473089271856,144,93,61,0,0,20,12,"Major",62,0
+"945","The Astronaut","Jin",2022,10,481,6.17586727010576,125,54,76,0,0,3,14,"Major",22,0
+"946","BackOutsideBoyz","Drake",2022,11,1045,6.95177216439891,142,85,43,4,0,32,39,"Minor",40,0
+"947","Broke Boys","Drake, 21 Savage",2022,11,1060,6.96602418710611,120,64,53,1,0,27,25,"Major",11,0
+"948","The Great War","Taylor Swift",2022,10,1274,7.14991683613211,96,57,74,22,0,4,8,"Major",55,0
+"949","My Mind & Me","Selena Gomez",2022,11,953,6.8596149036542,144,60,39,57,0,3,8,"Major",24,0
+"950","Bigger Than The Whole Sky","Taylor Swift",2022,10,1180,7.07326971745971,166,42,24,83,1,6,12,"Major",7,0
+"951","A Veces (feat. Feid)","Feid, Paulo Londra",2022,11,573,6.35088571671474,92,80,67,4,0,6,8,"Major",81,0
+"952","En La De Ella","Feid, Sech, Jhayco",2022,10,1320,7.18538701558042,97,82,77,8,0,5,12,"Major",67,0
+"953","Alone","Burna Boy",2022,11,782,6.66185474054531,90,61,67,15,0,5,11,"Minor",32,0
