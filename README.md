@@ -13,11 +13,11 @@ conda deactivate
 ```
  - Create a Python virtual environment:
 ```
-python3 -m venv env_xgboost
+python3 -m venv spotifyxgb_venv
 ```
 - Activate the virtual environment recently created
 ```
-source env_xgboost/bin/activate
+source spotifyxgb_venv/bin/activate
 ```
 - Install the requierements
 ```
@@ -36,4 +36,18 @@ DESTINATION_PATH = 'data'  # Destination path in the bucket without timestamp
 python3 create_bucket_upload_file.py
 ```
 - Once you run the previous script, you will find a message in your console with the path to your bucket, it should look like "the datafile is stored in gs://mds_bucket_for_data_mlops/data_20240221232458/spotify_data.csv"
-- Copy this path at the end of the pipeline_template.py file (creo que puedo automatizar esto). 
+
+- Copy this path at the end of the pipeline_spotify_logreg.py file in -line- 121 as follows. 
+```
+data_path: str = 'gs://mds_bucket_for_data_mlops/data_20240221224402/spotify_data.csv',
+```
+- Compile the pipeline with the modified code:
+```
+python3 pipeline_spotify_logreg.py
+```
+- It will create a json file with the configuration. To excecute the pipeline run the following code:
+```
+python3 execute_pipeline_spotifylogreg.py
+```
+
+Now you will have to wait a little bit for the pipeline to run. 
