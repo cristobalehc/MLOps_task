@@ -67,5 +67,5 @@ You can try to make an inference with the following payload in the model registr
   ]
 }
 ```
+![image](https://github.com/cristobalehc/MLOps_task/assets/87136104/c27400d7-abb8-4784-9758-81a29ee266ef)
 
-![image](https://github.com/cristobalehc/MLOps_task/assets/87136104/396d52f0-add7-4e70-a165-d3b1f4e521f6)
