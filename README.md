@@ -5,7 +5,7 @@ Just make sure to follow these steps:
 
  - Clone repository:
 ```
-git clone  PATH TO REPO
+git clone https://github.com/cristobalehc/MLOps_task.git
 ```
  - Exit conda environment
 ```
