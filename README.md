@@ -1,7 +1,10 @@
 # MLOps_task
 This is a repository with a MLOps pipeline for the MLOps course MDS2022-1
 
-Just make sure to follow these steps: 
+It is made to run in vertex AI workbench, so it assumes that you are logged in your GCP account, and have a running workbench instance with notebooks. 
+
+
+To try it out, make sure to follow these steps: 
 
  - Clone repository:
 ```
