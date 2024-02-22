@@ -2,7 +2,7 @@
 
 This is a repository with a MLOps pipeline for the MLOps course MDS2022-1. It will create a simple pipeline to train a logistic regression model and predict whether a song has a major or minor mode, based on song characteristics listed on Spotify. It will load and use a spotify dataset. 
 
-**Important note:** This repository assumes that you are logged in your GCP account, and have a running workbench instance with notebooks. 
+**Important note:** This repository assumes that you are logged in your GCP account, and have a running workbench instance and you have a terminal open already. 
 
 
 To try it out, make sure to follow these steps using a new terminal: 
