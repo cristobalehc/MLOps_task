@@ -26,7 +26,7 @@ source spotifylogreg_venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
- - There is a script to upload the data to a GCP bucket: make sure to change the name of the project_id to your own project's id in the section "Usage". See below. So you should modify the 'create_bucket_upload_file.py like this:
+ - Modify the 'create_bucket_upload_file.py' file: There is a script to upload the data to a GCP bucket: make sure to change the name of the **PPROJECT_ID** in line 30 to your own project's id in the section "Usage". See below. So you should modify the 'create_bucket_upload_file.py' like this:
 ```
 # Usage
 PROJECT_ID = 'YOUR PROJECT NAME GOES HERE'
