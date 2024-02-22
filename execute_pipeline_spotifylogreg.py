@@ -1,10 +1,12 @@
 from datetime import datetime
 from google.cloud import aiplatform
 
+#Execute the pipeline. 
+
 if __name__ == '__main__':
     TIMESTAMP = datetime.now().strftime("%Y%m%d%H%M%S")
 
-    #Crear el job. 
+    #Create the Job and submit. 
     job = aiplatform.PipelineJob(
         display_name="spotify-mode-prediction-logistic",  # Updated display name
         template_path="spotify_mode_prediction_pipeline_logistic_regression.json",  # Updated to your new pipeline JSON file

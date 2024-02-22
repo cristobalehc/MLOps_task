@@ -6,6 +6,10 @@ from google_cloud_pipeline_components import aiplatform as gcc_aip
 
 PROJECT_ID = 'future-abacus-414917'  # Actualizar con ID propio. 
 
+
+#Pipeline to train, evaluate and deploy a logistic regression to predict the mode of a song. 
+
+#First component: Load and prepare data. 
 @component(
     packages_to_install=["pandas==1.3.5", "scikit-learn==1.0.2","fsspec", "gcsfs"],
 )
@@ -13,23 +17,23 @@ def load_and_prepare_data(
     data_path: str, 
     dataset: Output[Dataset],
 ):
-    """Carga y prepara los datos de Spotify desde un archivo CSV."""
+    """Load and prepare the spotify data from a CSV located in a GCP bucket."""
     import pandas as pd
     from sklearn.preprocessing import LabelEncoder
 
-    # Cargar datos
-    encodings = ['utf-8', 'ISO-8859-1', 'latin1']  # Probar diferents encodings. 
+    # Load data.
+    encodings = ['utf-8', 'ISO-8859-1', 'latin1']  # Test different encodings (as it is a .csv). 
     for encoding in encodings:
         try:
             spotify_data = pd.read_csv(data_path, encoding=encoding)
             print(f"File read successfully with {encoding} encoding.")
-            break  # Salir del loop si funciona. 
+            break  # Break the loop if it works.  
         except UnicodeDecodeError as e:
             print(f"Failed to read with {encoding}: {e}")
-            if encoding == encodings[-1]:  # Si no funciona levantar error. 
+            if encoding == encodings[-1]:  # Raise an error if it doesn't work. 
                 raise UnicodeDecodeError(f"Failed to read file with tried encodings: {encodings}")
 
-    # Seleccionar columnas relevantes y codificar la variable objetivo
+    # Let's select only the relevant columns, and preprocess the data. 
     features = [
         'released_year', 'released_month', 'listas_spotify_log', 'bpm', 
         'porcentaje_bailable', 'porcentaje_energia', 'porcentaje_acustica', 
@@ -44,7 +48,8 @@ def load_and_prepare_data(
     # Guardar los datos preprocesados en un archivo CSV temporal
     spotify_data.to_csv(dataset.path, index=False)
     
-    
+## Train a logistic regression model. 
+
 @component(
     packages_to_install=["scikit-learn==1.0.2", "pandas==1.3.5", "joblib==1.1.0"],
 )
@@ -90,6 +95,8 @@ def logistic_regression_training(
     os.makedirs(model_output.path, exist_ok=True)
     joblib.dump(model, os.path.join(model_output.path, "model.joblib"))
 
+#Deploy the model to an endpoint, sklearn using cpu. 
+    
 @component(
     packages_to_install=["google-cloud-aiplatform==1.25.0"],
 )
@@ -106,19 +113,21 @@ def deploy_model(
     deployed_model = aiplatform.Model.upload(
         display_name="spotify-mode-prediction-model-logistic-regression",
         artifact_uri=model.uri,
-        serving_container_image_uri="us-docker.pkg.dev/vertex-ai/prediction/sklearn-cpu.0-23:latest",
+        serving_container_image_uri="us-docker.pkg.dev/vertex-ai/prediction/sklearn-cpu.0-23:latest", #here is the image for the docker container. 
     )
     endpoint = deployed_model.deploy(machine_type="n1-standard-4")
 
     vertex_endpoint.uri = endpoint.resource_name
     vertex_model.uri = deployed_model.resource_name
 
+# Orchestrate the pipeline. 
+    
 @dsl.pipeline(
     name="spotify-mode-prediction-pipeline-logistic-regression",
     description="A pipeline to train and deploy a Spotify mode prediction model using Logistic Regression.",
 )
 def spotify_pipeline(
-    data_path: str = 'gs://mds_bucket_for_data_mlops/data_20240221224402/spotify_data.csv',
+    data_path: str = 'gs://mds_bucket_for_data_mlops/data_20240222172737/spotify_data.csv',
 ):
     prepare_data_task = load_and_prepare_data(data_path=data_path)
     training_task = logistic_regression_training(
@@ -132,5 +141,5 @@ def spotify_pipeline(
 if __name__ == '__main__':
     compiler.Compiler().compile(
         pipeline_func=spotify_pipeline, 
-        package_path="spotify_mode_prediction_pipeline_logistic_regression.json"
+        package_path="spotify_mode_prediction_pipeline_logistic_regression.json" #Give the json a name. 
     ) 

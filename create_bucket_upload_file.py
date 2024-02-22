@@ -1,6 +1,8 @@
 from google.cloud import storage
 from datetime import datetime
 
+#This script will create a bucket in JCP if it doesn't exist, and load the data. If it exist, it will just load the data inside a folder with a timestamp. 
+
 def create_bucket_and_upload_file(project_id, bucket_name, source_file_path, file_destination_path):
     """Creates a bucket (if it doesn't exist), creates a timestamped folder, and uploads a file to it."""
     storage_client = storage.Client(project=project_id)
