@@ -63,9 +63,9 @@ Now you will have to wait a little bit for the pipeline to run.
 
 
 
-## Using the API with the GUI: 
+## Using the API with a python script: 
 
-You can try to make an inference with the following payload in the model registry GUI widget:
+You can try to make an inference with the following payload:
 ```
 {
   "instances": [
@@ -73,5 +73,10 @@ You can try to make an inference with the following payload in the model registr
   ]
 }
 ```
-![image](https://github.com/cristobalehc/MLOps_task/assets/87136104/c27400d7-abb8-4784-9758-81a29ee266ef)
+- To make an inference run the following code in the terminal. It will tell you whether the song has a Major or Minor mode. 
+
+```
+python3 prediction_script.py
+```
+
 
