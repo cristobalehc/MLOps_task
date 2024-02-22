@@ -16,11 +16,11 @@ conda deactivate
 ```
  - Create a Python virtual environment:
 ```
-python3 -m venv spotifyxgb_venv
+python3 -m venv spotifylogreg_venv
 ```
 - Activate the virtual environment recently created
 ```
-source spotifyxgb_venv/bin/activate
+source spotifylogreg_venv/bin/activate
 ```
 - Install the requierements
 ```
