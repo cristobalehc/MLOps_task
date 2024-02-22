@@ -1,7 +1,8 @@
-# MLOps_task
-This is a repository with a MLOps pipeline for the MLOps course MDS2022-1
+# MLOps pipeline using vertex for MDS2022-1. 
 
-It is made to run in vertex AI workbench, so it assumes that you are logged in your GCP account, and have a running workbench instance with notebooks. 
+This is a repository with a MLOps pipeline for the MLOps course MDS2022-1. It will create a simple pipeline to train a logistic regression model and predict whether a song has a major or minor mode, based on song characteristics listed on Spotify. It will load and use a spotify dataset. 
+
+**Important note:** This repository assumes that you are logged in your GCP account, and have a running workbench instance with notebooks. 
 
 
 To try it out, make sure to follow these steps: 
@@ -54,3 +55,15 @@ python3 execute_pipeline_spotifylogreg.py
 ```
 
 Now you will have to wait a little bit for the pipeline to run. 
+
+
+## Using the API with the GUI: 
+
+You can try to make an inference with the following payload in the model registry GUI widget:
+```
+{
+  "instances": [
+    [2020, 7, 5.1, 120, 0.65, 0.8, 0.1, 0.0, 0.3, 0.2, 0.75]
+  ]
+}
+```
