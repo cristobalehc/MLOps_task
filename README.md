@@ -55,6 +55,8 @@ python3 execute_pipeline_spotifylogreg.py
 ```
 
 Now you will have to wait a little bit for the pipeline to run. 
+![image](https://github.com/cristobalehc/MLOps_task/assets/87136104/61b6b942-68ae-46ce-8b3f-2a1b72e8b12e)
+
 
 
 ## Using the API with the GUI: 
